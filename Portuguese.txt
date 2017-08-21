@@ -1,0 +1,991 @@
+//
+// arquivo de texto em inglês
+//
+// // ignore line
+// # início de nova categoria
+//
+
+
+Notificações de texto e tripulação de # 000 Tooltip
+Carga do navio
+Capacidade de armazenamento
+Comida
+Requisito de tripulação
+Metal
+Obrigatório para quase toda a construção
+agua
+Requisito de tripulação
+Créditos
+Total de créditos
+Painel do plano
+Construir peças
+Painel de tripulação
+Visão geral da tripulação. Clique no meio para se centrar no tripulante.
+Grupo Total
+Total da tripulação combinada
+Poder
+Necessário para alimentar componentes
+Energia
+Recarregado por dormir
+Recarregado por comer
+Requer
+poder
+Ouro
+Obrigatório para a construção de componentes complexos
+Silício
+Obrigatório para a construção de componentes simples
+Recarregado por beber
+Necessário para executar componentes
+Fome
+Sede
+requerimento
+unidades
+acessível
+em uso
+Durabilidade
+Experiência
+Ganhou trabalhando.
+impulso
+resfriamento
+Eles estão se rendendo!
+Comércio
+bem sucedido
+mal sucedido
+Navio detectado em scanners de longo alcance
+Campo de asteróides detectado à frente
+Estrela detectada à frente
+O navio Target é hostil! Não utilizado
+Superaquecimento do sistema
+Excesso de carga ventilado
+Oxigênio
+Necessário para passeios espaciais
+Ship está agora em um curso de interceptação
+Parece um navio comercial
+Eles estão alimentando suas armas!
+Estamos sendo digitalizados
+Eles estão alimentando suas armas
+Eles estão saindo
+Navio saindo da urdidura
+O navio mudou de curso e nos interceptará
+O navio não nos detectou
+Ameaçar
+Ameaça o alvo
+Suborno
+Suba o alvo para sair
+Eles não são atualmente hostis
+Eles estão tentando escapar!
+O navio alvo está quebrando
+Nosso suborno foi bem sucedido
+Subornado falhou
+Nossa ameaça foi bem sucedida
+Nossa ameaça falhou
+Não temos comida
+Não temos água
+Não pode acessar comida
+Não pode acessar a água
+Definir novo curso para o campo de asteróides
+Configurando novo curso para enviar assinatura
+Novo curso
+Coloque o curso no campo de asteróides
+Novo curso
+Definir curso para enviar assinatura
+O navio já está presente
+Estamos muito perto do campo atual
+Câmera central
+Tarefas
+Componentes
+Painel de tarefas
+Revise tarefas na fila. Clique no meio para centrar na tarefa.
+Painel de componentes
+Revise os componentes instalados. Clique no meio para centrar no componente.
+Energia de componente
+Desligamento de componente
+utilização do CPU
+Uso de energia
+Alternar o poder
+Desligar o poder
+Pesquisa
+Pesquisar novos componentes
+São necessários pontos de pesquisa
+Ligações Hardcoded
+Nova equipe
+requeridos
+Para toda construção planejada
+progresso
+Notificações
+Notificações ordenadas pelos mais recentes no topo
+Selecione a equipe
+Selecione nova equipe para vender
+foi destruído
+
+# 200 Texto de botões de compilação
+Remover
+Cancelar planos ou remover a estrutura. Reembolsar o custo total se não estiver danificado, caso contrário, reembolsar a porcentagem de HP.
+casco
+Construir a base do navio - os cantos expostos não escapam
+Chão
+Construa no casco para criar salas
+Cama
+Melhora o bem-estar
+Caixa pequena
+Adicionar capacidade de carga
+Caixa média
+unidades
+Dispensador de alimentos
+Fornece comida [DIRECIONAL]
+Motor médio
+Requer manutenção. Não pode ser construído nos cantos. Aumentar evasão por
+Motor grande
+Requer manutenção. Não pode ser construído nos cantos. Aumentar evasão por
+XLarge engine
+Requer manutenção. Não pode ser construído nos cantos. Aumentar evasão por
+Cadeira
+Usado para comer e por equipe de operações. Pode ser encaminhado.
+Pequena mesa
+Melhor do que comer no chão
+Mesa média
+Melhor do que comer no chão
+Mesa grande
+Melhor do que comer no chão
+Porta
+Pode ser bloqueado
+Airlock
+Necessário para caminhadas espaciais. Pode ser ventilado.
+Prioritizar
+Priorizar tarefa
+Painel solar
+Gera poder
+Solar
+Canto do casco
+Descrição do canto do casco
+Cama de planta pequena
+Usado para cultivar 1 alimento
+Cama de planta média
+Usado para cultivar 2 alimentos
+Cama de planta grande
+Usado para cultivar 4 alimentos
+Reator pequeno
+Gera energia. Requer manutenção.
+Reator médio
+Gera energia. Requer manutenção.
+Grande reator
+Gera energia. Requer manutenção.
+Console de navegação
+Trabalhou por operações. Aumenta o evasão pela habilidade de inteligência. [DIRECIONAL]
+Consola de sensor
+Trabalhou por operações. Aumenta o tempo de notificação por habilidade de inteligência. [DIRECIONAL]
+Consola de armas
+Trabalhado por militares. Aumenta a precisão pela habilidade de combate. [DIRECIONAL]
+Console de proteção
+Trabalhado por militares. Aumenta a recarga do escudo por habilidades de combate. [DIRECIONAL]
+Caixa grande
+Adicionar capacidade de carga
+Motor pequeno
+Requer manutenção. Não pode ser construído nos cantos. Aumentar evasão por
+Gerador de blindagem
+Recicl a célula do escudo.
+Suporte de vida
+Bombas de oxigênio
+Suporte de vida média
+Descodificação do suporte de vida média
+Grande suporte de vida
+Descodificação de suporte de vida grande
+Torre de laser
+Arma de energia básica
+Célula de proteção
+Componente do escudo base. Requer cobrança.
+Lançador de torpedos
+Arma explosiva poderosa de disparo lento
+Rocket pod
+Arma explosiva de tiro múltiplo
+Torre de plasma
+Arma de energia de disparo rápido
+Railgun
+Arma de projétil duro
+Torreta EMP
+Arma de energia eficaz contra escudos
+Chaingun
+Arma de projétil de tiro múltiplo
+Reforço de blindagem
+Recicl a célula do escudo
+Placa de armadura pequena
+Fornece tampão de armadura
+Placa de armadura média
+Fornece tampão de armadura
+Placa de grande armadura
+Fornece tampão de armadura
+Reparador de armaduras
+Usa nanobots para recarregar o buffer de armadura
+Cadeira de capitães
+Fornece bônus de velocidade, moral e energia
+Núcleo de urdidura
+Os duplas pisam a velocidade de recarga do disco
+Laser de mineração
+Minas de metal, silício, ouro e água. O alcance pode ser aumentado com console ou extensor.
+Marcação de pavimento
+Decoração interna
+Impressora de circuito
+Descodificador da impressora de circuitos
+Almofada de saúde
+Permite a cura da tripulação. Pode caminhar quando não estiver em uso.
+Escotilha de carga
+Adicionar capacidade de carga externa
+Consola Comms
+Trabalhou por operações. Aumenta o tempo de notificação por habilidade de inteligência. [DIRECIONAL]
+Consola de calor
+Trabalhou por operações. Aumente a quantidade de ventilação por habilidade de inteligência. [DIRECIONAL]
+Matriz de Comms
+Descodificação da matriz de comunicações
+Pequeno respiradouro
+Reduz o calor
+Painel solar pequeno
+Gera poder
+Painel solar médio
+Gera poder
+Matriz de CPU
+Fornece CPU
+Refrigerador de água
+Fornece água
+Conjunto de sensores
+Detecção de ameaças anteriores
+Abraçadeira de casco
+Aumenta o buffer de estrutura. Pode ser encaminhado.
+Console de armadura
+Trabalhado por militares. Melhora a recarga de armaduras por habilidade de combate [DIRECTATIVA]
+Limite 1
+Limpar console
+Limpar desc. Do console
+Extensor de mineração
+Aumenta o alcance da mineração
+Penetração de energia
+Aumenta o dano de armas de energia adjacentes (não diagonais)
+Penetração do projétil
+Aumenta o dano de armas de projéteis adjacentes (não diagonais)
+Penetração explosiva
+Aumenta o dano de armas explosivas adjacentes (não diagonais)
+Proteção de energia S
+Proteção de energia S desc
+Proteção projéctil S
+Proteção projéctil S desc
+Proteção explosiva S
+Proteção explosiva S desc
+Atualização da arma
+Atualização energética
+Atualização do projétil
+Atualização explosiva
+Comprimento da mineração
+Proteção de energia A
+Proteção de energia A desc
+Proteção de projéteis A
+Proteção de projéteis A desc
+Proteção explosiva A
+Proteção explosiva A desc
+Shield Amp
+Aumenta a recarga do escudo do reforço adjacente (não diagonal)
+Armadura Amp
+Aumenta a recarga de armaduras do reforço adjacente (não diagonal)
+Painel de CPU
+Fornece CPU externamente
+Dano do escudo base
+Dano base do casco
+Dano da base da equipe
+Tempo de recarregamento
+Marcação de casco
+Decoração externa
+Estação de pesquisa
+Desbloquear novos componentes
+Caixa de arrastar
+Construir
+Reparar
+Remover tarefa
+Verificação de recursos
+Conclusão da tarefa
+Progresso da conclusão da tarefa
+Núcleo do navio
+Todos os componentes devem ser conectados ao núcleo do navio pelo casco ou pelo chão.
+Ventilação de calor médio
+capacidade
+Ventilação
+Console de mineração
+Trabalhado por militares. Aumenta o alcance da mineração pela habilidade de combate. [DIRECIONAL]
+
+Texto do menu # 400
+CARGA
+Plano
+Remover
+EQUIPE TÉCNICA
+Atribuir cama
+Atribuir camas
+Engenharia
+Mobília
+Utilidade
+Equipe técnica
+Renomear
+Porta
+Portas
+Airlock
+Airlocks
+Desbloquear
+Bloqueio
+Matar (depurar)
+Cama clara
+Camas claras
+Restaurar ao padrão
+Renomeie a equipe
+Mudar o nome da tripulação desc
+Atribuir
+para
+Agilidade
+Melhora a velocidade de movimento
+Engenharia
+Melhora a velocidade de construção, a velocidade de reparo e o funcionamento do motor.
+Resistência
+Melhora energia, fome e saúde
+Inteligência
+Melhora a produção de alimentos, pesquisa e operação de combate
+Saúde
+Aumentar, descansando, comendo ou com tratamento médico. Modificado pela resistência.
+Moral
+Melhore descansando, comendo ou com móveis. Modificado pela inteligência.
+JOGADOR
+Construir componentes de engenharia
+Construir móveis
+Construir componentes funcionais
+Massa
+Classificação de tamanho do navio usado na habilidade de evasão
+Navio do jogador
+Nome do navio do jogador
+PLANO
+Painel de alternância
+OPÇÕES
+Ligar
+Componente de energia
+Desligar
+Disable component
+Necessário para operar
+Dormir
+Operações
+Terminais operados por tripulação
+Comer
+Ordem
+morrer
+comer
+dormir
+Aberto
+Fechar
+Armas
+Armas e artilheiros
+Vent
+Ventilar o oxigênio para o espaço
+Selar o navio de ventilação para o espaço
+Atribuir console
+Atribuir console à tripulação
+Atribuir cama
+Atribua cama à equipe
+Habilitar o trabalho
+Permitir que a equipe trabalhe nesta estrutura
+Desativar o trabalho
+Impedir que esta estrutura seja trabalhada
+Controle manual
+Dê ordens específicas a este membro da tripulação
+Controle de liberação
+O membro da tripulação vai encontrar seu próprio destino
+Reatribuir
+Ordem
+Grupo de controle
+Pare de segmentar
+Impeça a arma de disparar
+Escudo
+Escudo atual e valor de reparo
+armaduras
+Cobertura atual e valor de reparo
+Defesas
+Construir capacidades defensivas
+Estrutura
+Estrutura atual e valor de reparo
+ALVO
+Designação do navio alvo
+Objetivo escudo do navio
+Proteção atual do navio alvo e valor de reparo
+Armadura de navio alvo
+Armadura atual do navio alvo e valor de reparo
+Estrutura do navio alvo
+Estrutura atual do navio alvo e valor de reparo
+Renomear a marcação
+Renomear a marcação
+PODER
+Warp jump
+Warp jump desc
+Pontos de vida
+Calor
+Capacidade de calor e refrigeração
+Destina o calor do navio
+Destina o calor do navio e a capacidade de refrigeração
+CPU
+Beber
+beber
+Estruturas
+Fechar
+Ordens do capitão
+Despejar 20% de metal
+Dump metal para o espaço
+Dump 20% silicon
+Dump silício para espaço
+Dump 20% gold
+Dump ouro para o espaço
+Descarregue 20% de água
+Descarregue a água para o espaço
+Despejar 20% de comida
+Despejar comida para o espaço
+Combate
+Melhora a operação de combate
+Precisão do navio
+A precisão + 1d10 é comparada contra o evasão inimiga. 10 é sempre um sucesso.
+Evasão do navio
+[Máximo 5] Comparado com a precisão do inimigo + 1d10 para evitar o ataque. Aumenta a chance de evitar a colisão de asteróides.
+Precisa a precisão do navio
+A precisão + 1d10 é comparada contra o evasão do jogador. 10 é sempre um sucesso.
+Objetivo evadir o navio
+[Máximo 5] Comparado contra a precisão do jogador + 1d10 para evadir ataque
+COR
+Recuperar navio
+sotaque
+Caixa
+Motor
+Motor thrust
+Chapas de armadura
+Reator
+uniforme
+Mesa
+Cama de planta
+Plantas
+Sujeira
+Soldador
+Comprimido
+Fone de ouvido
+Terno espacial
+Vidro do terno espacial
+Extintor
+Regador
+Planejamento de construção
+Saúde da tripulação
+Energia da tripulação
+Moral da tripulação
+Experiência de tripulação
+Pontos de acerto da estrutura
+Repetição de armas
+Construir telha
+Remover azulejo
+Esfregão de limpeza
+Recarga do escudo do navio
+Descrição da recarga do escudo do navio
+Recarga do escudo alvo
+Descrição da recarga do escudo alvo
+Recarga de armadura de navio
+Descrição da recarga de armadura de navio
+Recarga de armaduras alvo
+Descrição da recarga da armadura alvo
+Hostil
+Neutro
+Amigáveis
+Comércio
+cada
+Comprar
+Vender
+para
+Créditos
+RELAÇÃO
+Status do relacionamento com o alvo
+OFERTAS COMERCIAIS
+Ofertas de comércio com alvo
+OFERTA DE COMÉRCIO
+Compra do alvo
+Vender para atingir
+Habilidade da equipe de navegação
+Poder do motor
+Massa
+Total
+Armas de fogo
+Habilidade da equipe de armas
+Habilidade da equipe do motor
+Interagir
+ESTE É O FIM DESTE GRUPO
+
+
+
+
+# 600 Tripulação, painel de camas
+Geral
+Limpeza.
+Ciência
+Pesquisa e biologia
+Operações
+Navegação, sensores, gerenciamento de calor.
+Engenheiro
+Construção e reparação.
+Militares
+Segmentação e defesa.
+Capitão
+Papel de comando
+Cama clara
+Camas claras
+Escoteiro
+Mineiro
+Transportador
+Renomear navio
+Crie sua própria designação de navio
+SENHORITA
+Restabelecer
+Redefinir as opções de cores para as cores atualmente aplicadas
+Aplique
+Aplique novas cores para enviar
+Toque
+Pausa
+Vermelho
+O foco da tripulação em papéis e reparos de combate - ordens manuais necessárias para construir novas estruturas.
+Autofire
+As armas serão alvo e dispararão automaticamente no navio alvo
+Saltar
+Execute o salto de urdidura. Requer carga e evadir> 0.
+Azul
+Toda a tripulação para voltar ao navio
+Preto
+Abandonar navio
+CÓDIGO
+Sensores
+Detectar ameaças recebidas com aviso adicional.
+Habilidade da tripulação do sensor
+Avanço rápido
+ROLES
+Designar papéis para a equipe
+Airlock
+Saindo do navio
+Voltando ao navio
+Ir para
+Trabalhando
+Dirigindo-se à comida
+Encontrar lugar para comer
+Comendo
+Dirigindo-se para a água
+Bebendo
+Dirigindo-se ao bloco de saúde
+Cura
+Indo para a cama
+adormecido
+Dirigindo para disparar
+Combate ao fogo
+Indo para desperdiçar
+Limpeza de resíduos
+Dirigindo-se ao trabalho
+Construindo
+Reparando
+Dirigindo-se ao corpo
+Lidar com o corpo
+Ocioso
+Cadeira do capitão
+navegação
+Sensores
+alvejando
+Controles de escudo
+Controles de armadura
+Comunicações
+Controles de calor
+Iniciando a ordem
+Aguardando o pedido
+Motores
+Plantas
+Controle manual
+Tripulação está sob controle manual
+Tarefa
+Tarefa alocada do membro da tripulação
+Definir curso
+Campo de asteróides
+Assinatura do navio
+Console de pesquisa
+Controles de mineração
+
+# 800 Texto do menu principal
+Novo
+Carga
+Opções
+Sair
+Salve 
+Continuar
+Slot vazio
+Escape Pod 02
+Começar
+Padrão
+Selecione nova equipe
+Equipe técnica
+Currículo
+Vídeo
+Áudio
+Controles
+Interface
+mestre
+Efeitos
+Cardápio
+Música
+volume
+Descrição do volume mestre
+Descrição do volume dos efeitos
+Descrição do volume do menu
+Descrição do volume da música
+Balanço estéreo
+-1 (completo à esquerda) para 1 (completo à direita). Padrão = 0.
+Mistura espacial
+0 (2d) a 1 (3d). Padrão = 1.
+Nível Doppler
+0 (nenhum) para 5 (completo). Padrão = 0.
+Sensibilidade ao zoom
+Sensibilidade do zoom da câmera
+Zoom para o cursor
+Zoom para o cursor ou zoom para o centro da tela
+Zoom invert
+Inverter mousewheel
+Ativar dicas de ferramentas
+Ativar dicas de ferramentas do jogo
+Atraso na informação
+Aumente ou diminua o tempo antes da impressão de ferramentas aparecer
+Sensibilidade de arrastar
+Sensibilidade ao arrastar da câmera
+Escala UI
+Experimental. Relatado para causar problemas de FPS. Padrão 1.
+Predefinição de cores
+Clique com o botão esquerdo para definir. Clique com o botão direito do mouse para limpar.
+Windowed
+Ativar exibição em janelas
+Tela cheia
+Ativar exibição em tela cheia
+Max FPS
+Definir FPS máximo
+Nenhum
+VSYNC
+Toggle VSYNC
+Sotaque do menu
+Definir cor de acento do menu
+Redefinir as configurações do menu
+Redefine todas as configurações do menu para o padrão
+Definir a resolução em tela cheia
+Distância máxima
+O áudio do jogo de distância pode ser ouvido a partir da fonte. Padrão 100.
+Botão pairar
+Definir o botão hover / enter sound
+Clique no botão
+Set button click sound
+Sucesso
+Definir o som do sucesso do botão
+Erro
+Definir o som do erro do botão
+Tempo de toque duplo
+Defina a janela do tempo de toque duplo
+Carregando
+Primeira carga
+Língua
+Definir idioma (requer reiniciar)
+Inglês
+chinês simplificado
+chinês tradicional
+francês
+alemão
+polonês
+Português
+russo
+espanhol
+sueco
+personalizadas
+UI alfa
+Transparência de fundo do painel UI
+Notificação
+Cor da notificação da tripulação
+Ativar alarme
+Ativar sons de alarme
+Importação de navios inimigos
+Importar
+Importe e aplique cores do arquivo
+Exportar
+Exportar cores aplicadas ao arquivo
+Painel de tripulação máximo
+O número máximo de linhas de painel da tripulação para mostrar
+VELHO
+Painel de tarefas máximo
+O número máximo de linhas do painel de tarefas para mostrar
+Painel componente máximo
+O número máximo de linhas de painel de componentes para mostrar
+Repor controles
+Redefine todas as ligações de chaves para o padrão
+Pitch
+Pitch change description. Padrão 15.
+Painel de notificação máximo
+O número máximo de linhas de painel de notificação para mostrar
+Temporizador automático
+Minutos entre autosave
+
+
+Ligações de teclas # 1000
+M1 não utilizado
+Mouse 1
+M2 não utilizado
+Mouse 2
+Arraste a câmera
+Arraste a câmera
+Confirmar texto
+Confirmar entrada de texto
+Confirmar texto 2
+Confirmar entrada de texto 2
+Selecione tudo / Salvar grupo
+Selecionar todo / salvar o botão do grupo
+Não utilizado
+Desc descolagem
+Grupo de controle 1
+Selecione o grupo de controle 1
+Grupo de controle 2
+Selecione o grupo de controle 2
+Grupo de controle 3
+Selecione o grupo de controle 3
+Grupo de controle 4
+Selecione o grupo de controle 4
+Grupo de controle 5
+Selecione o grupo de controle 5
+Grupo de controle 6
+Selecione o grupo de controle 6
+Grupo de controle 7
+Selecione o grupo de controle 7
+Grupo de controle 8
+Selecione o grupo de controle 8
+Grupo de controle 9
+Selecione o grupo de controle 9
+Grupo de controle 10
+Selecione o grupo de controle 10
+Selecione / retire solteiro
+Selecione / remova estrutura única / tripulação
+Pare de disparar
+Parar o tiro de armas selecionado
+Desligar
+Desligar estruturas selecionadas
+Ligar
+Ativar estruturas selecionadas
+Controle de liberação
+Controle de libertação da equipe selecionada
+Assumir o controle
+Assuma o controle da equipe selecionada
+Habilitar o trabalho
+Habilitar o trabalho na estrutura selecionada
+Desativar / interromper o trabalho
+Desativar o trabalho na estrutura selecionada
+Pausa
+Pausar jogo
+Bloquear porta / airlock
+Bloquear os airs selecionados
+Desbloquear porta / airlock
+Desbloquear airlocks selecionados
+Abertura de ventilação
+Espiral de ventilação para espaço
+Fechar a fechadura
+Pare de sair da caldeira
+Girar CW
+Gire a estrutura no sentido horário
+Rotate CCW
+Gire a estrutura no sentido anti-horário
+Painel do plano
+Ativar / desativar o painel do plano
+Painel de tripulação
+Ativar / desativar o painel da tripulação
+Painel de carga
+Ativar / desativar o painel de carga
+Painel do navio
+Ativar / desativar o painel do navio
+Painel de cores
+Ativar / desativar o painel de cores
+Remover
+Quick toggle remove ao construir
+Prioritizar
+Prioridade rápida de prioridade ao construir
+Alternar código vermelho
+Ativar / desativar o código vermelho
+Alternar autofire
+Ativar / desativar a ignição automática
+Atribuir console
+Atribua a equipe para trabalhar esta consola
+Atribuir cama
+Atribua a equipe a esta cama
+Ordem de sono
+Peça à equipe para dormir
+Ordem comer
+Peça à equipe para comer
+Ordem de bebida
+Ordem da bebida da equipe
+Alternar código azul
+Ativar / desativar o código azul
+Warp jump
+Requer carga total e> 0 evade
+Código de alternância preto
+Ativar / desativar o código preto
+Painel de funções
+Ativar / desativar o painel de funções
+Alternar velocidade do jogo
+Alternar velocidade da velocidade do jogo
+Câmera central
+Câmera central no navio
+Painel de tarefas
+Ativar / desativar o painel de tarefas
+Painel da estrutura
+Ativar / desativar o painel de estrutura
+Painel de pesquisa
+Ativar / desativar o painel de pesquisa
+Painel de notificação
+Ativar / desativar o painel de notificação
+Alternar UI
+Ativar / desativar a UI
+Mais Zoom
+Zoom camera in
+Reduzir o zoom
+Zoom camera out
+Salvamento rapido
+Salve o jogo no slot de economia rápida
+Carga rápida
+Salve o jogo no slot de carga rápida
+
+# 1200 TITLE
+Alpha 1.2e
+FIM DE JOGO
+
+
+
+# 1400 Backup
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança
+Cópia de segurança

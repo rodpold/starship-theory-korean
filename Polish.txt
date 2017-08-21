@@ -1,0 +1,990 @@
+//
+// angielski plik tekstowy
+//
+// // ignoruj ​​linię
+// początek nowej kategorii
+//
+
+
+# 000 powiadomienie o etykiecie narzędzia i załodze
+Ładunek statków
+Pojemność pamięci masowej
+Jedzenie
+Wymagania załogi
+Metal
+Wymagane dla prawie wszystkich konstrukcji
+woda
+Wymagania załogi
+Kredyty
+Razem kredyty
+Panel planu
+Konstruuj części
+Panel załogi
+Przegląd załogi. Kliknij, aby wyśrodkować członków załogi.
+Cała załoga
+Łączna suma załogi
+Moc
+Wymagane do komponentów mocy
+Energia
+Ładowane przez spanie
+Napełniany przez jedzenie
+Wymaga
+moc
+Złoto
+Wymagana do budowy złożonych elementów
+Krzem
+Wymagana do budowy prostych elementów
+Naładowane przez picie
+Wymagane do uruchamiania składników
+Głód
+Pragnienie
+wymaganie
+Jednostki
+dostępny
+w użyciu
+Trwałość
+Doświadczenie
+Uzyskane przez działanie.
+podnieść
+chłodzenie
+Oni poddają się!
+Handel
+udany
+nieudany
+Statek wykryto w skanerach dalekiego zasięgu
+Pole asteroid zostało wykryte z wyprzedzeniem
+Gwiazda wykryła przed siebie
+Docelowy statek jest wrogo nastawiony! Nie używany
+Systemy przegrzania
+Nadmiar ładunku odprowadzono
+Tlen
+Wymagane dla spacerów
+Statek jest teraz na szlaku przechwytywania
+Wygląda na statek handlowy
+Podnoszą broń!
+My są skanowane
+Podają broń
+Wyjeżdżają
+Statek wychodzący z osnowy
+Statek zmienił kurs i nas przechwyci
+Statek nas nie wykrył
+Grozić
+Zagrażaj celowi
+Przekupić
+Przekupuj cel na wyjazd
+Nie są obecnie wrogi
+Próbują uciec!
+Docelowy statek łamie się
+Nasza łapówka była udana
+Przekupstwo nie powiodło się
+Nasze zagrożenie zakończyło się sukcesem
+Nasze zagrożenie nie powiodło się
+Nie mamy pożywienia
+Nie mamy wody
+Nie można dostać się do żywności
+Nie ma dostępu do wody
+Ustawienie nowego pola na pole asteroid
+Ustanowienie nowego kursu do podpisu statku
+Nowy kurs
+Ustaw kurs na pole asteroid
+Nowy kurs
+Ustaw kurs na statyczny podpis
+Statek już obecny
+Jesteśmy zbyt blisko obecnego pola
+Kamera centralna
+Zadania
+składniki
+Panel zadań
+Przeglądanie zadań w kolejce. Środkowy kliknij, aby wyśrodkować zadanie.
+Panel akcesoriów
+Przejrzyj zainstalowane napędy. Środek kliknij, aby wyśrodkować element.
+Włączyć zasilanie
+Element wyłączony
+użycie procesora
+Zużycie energii
+Przełącz zasilanie
+Przełącz wyłącznik zasilania
+Badania
+Badania nowych elementów
+Potrzebne punkty badawcze
+Wiązania twarde
+Nowa załoga
+wymagany
+Dla wszystkich planowanych konstrukcji
+postęp
+Powiadomienia
+Powiadomienia uporządkowane najaktualniej na górze
+Wybierz załogę
+Wybierz nową załogę do sprzedaży
+został zniszczony
+
+# 200 Utwórz tekst przycisku
+Usunąć
+Anuluj plany lub usuń strukturę. Zwroty pełnego kosztu, jeśli są nieuszkodzone, w przeciwnym razie zwroty procentowe HP.
+Łuska
+Konstrukcja podstawy statku - narożniki nie są nieszczelne
+Piętro
+Opieraj się na kadłubie, aby tworzyć pokoje
+Łóżko
+Poprawia zdrowie
+Małe Skrzynki
+Dodaj pojemność ładunku
+Medium Crate
+Jednostki
+Dozownik żywności
+Zapewnia jedzenie [kierunek]
+Średni silnik
+Wymaga konserwacji. Nie można budować na narożach. Zwiększyć unikać
+Duży silnik
+Wymaga konserwacji. Nie można budować na narożach. Zwiększyć unikać
+Silnik XLarge
+Wymaga konserwacji. Nie można budować na narożach. Zwiększyć unikać
+Krzesło
+Stosowany do spożywania przez załogę i operacje. Mogę chodzić.
+Mały stół
+Lepiej niż jedzenie na podłodze
+Średni stół
+Lepiej niż jedzenie na podłodze
+Duży stół
+Lepiej niż jedzenie na podłodze
+Drzwi
+Może być zablokowany
+Blokada
+Wymagane do spacerów. Może być odpowietrzony.
+Priorytet
+Priorytetowanie zadania
+Panel słoneczny
+Generuje moc
+Słoneczny
+Kąt kadłuba
+Narożnik kadłuba desc
+Małe łóżko roślinne
+Używane do uprawy 1 żywności
+Średnia łożyska
+Używane do uprawiania 2 żywności
+Duże łóżko roślinne
+Używane do uprawy 4 żywności
+Mały reaktor
+Generuje moc. Wymaga konserwacji.
+Średni reaktor
+Generuje moc. Wymaga konserwacji.
+Duży reaktor
+Generuje moc. Wymaga konserwacji.
+Konsola nawigacyjna
+Pracuje w operacjach. Zwiększa się omijając umiejętności inteligenckie. [KIERUNKOWY]
+Konsola czujników
+Pracuje w operacjach. Zwiększa czas powiadomienia przez umiejętności wywiadowcze. [KIERUNKOWY]
+Konsola broni
+Pracował przez wojsko. Zwiększa dokładność dzięki umiejętnościom bojowym. [KIERUNKOWY]
+Konsola osłonowa
+Pracował przez wojsko. Zwiększa zużycie tarcz dzięki umiejętnościom bojowym. [KIERUNKOWY]
+Duża skrzynka
+Dodaj pojemność ładunku
+Mały silnik
+Wymaga konserwacji. Nie można budować na narożach. Zwiększyć unikać
+Generator tarczy
+Ładuje osłonę celi.
+Podtrzymywania życia
+Pompy tlenowe
+Średnie wsparcie życia
+Średni czas życia desc
+Duże wsparcie życia
+Duże wsparcie życia desc
+Wieża laserowa
+Podstawowa broń energetyczna
+Tarcza tarczy
+Składnik osłony podstawy. Wymaga ładowania.
+Torpedo launcher
+Wolna strzelanka potężna broń wybuchowa
+Rocket pod
+Wielokrotna broń wybuchowa
+Wieża plazmowa
+Szybka broń energetyczna
+Railgun
+Ciężka broń pocisku
+Wieża EMP
+Broń energetyczna skuteczna na tarcze
+Chaingun
+Broń pociskowa wielopunktowa
+Wzmocnienie tarczy
+Ładuje osłonę celi
+Mała płyta zbroi
+Zapewnia bufor zbroi
+Średnia pancerza
+Zapewnia bufor zbroi
+Duża pancerza
+Zapewnia bufor zbroi
+Naprawa pancerza
+Używa nanobotów do ładowania buforu zbroi
+Kapitanowie
+Zapewnia szybkość, morale i premie energetyczne
+Warp core
+Dwukrotnie zwiększa szybkość ładowania napędu
+Laser górniczy
+Kopalnie metalowe, krzemowe, złoto i woda. Zakres można zwiększyć za pomocą konsoli lub przedłużacza.
+Oznaczenie podłogi
+Dekoracje wewnętrzne
+Drukarka sieciowa
+Drukarka drukowana desc
+Zdrowie pad
+Umożliwia uzdrowienie załogi. Może chodzić, gdy nie jest używany.
+Nabój lukowy
+Dodaj zewnętrzne zdolności przewozowe
+Konsola konsoli
+Pracuje w operacjach. Zwiększa czas powiadomienia przez umiejętności wywiadowcze. [KIERUNKOWY]
+Konsola cieplna
+Pracuje w operacjach. Zwiększyć ilość odpowietrzania przez inteligencję. [KIERUNKOWY]
+Tablica komunikacyjna
+Tablica komunikacyjna desc
+Mały odpowietrznik
+Obniża ciepło
+Mały panel słoneczny
+Generuje moc
+Średni panel słoneczny
+Generuje moc
+Tablica CPU
+Zapewnia CPU
+Chłodnica wody
+Zapewnia wodę
+Tablica czujników
+Wcześniejsze wykrywanie zagrożeń
+Klamra kadłuba
+Zwiększa bufor struktury. Mogę chodzić.
+Konsola zbroi
+Pracował przez wojsko. Zwiększa ładowność zbroi dzięki umiejętnościom bojowym [DIRECTIONAL]
+Limit 1
+Wyczyść konsolę
+Wyczyść konsolę desc
+Przedłużacz wydobycia
+Zwiększenie zakresu wydobycia
+Penetracja energii
+Zwiększa obrażenia sąsiedniej broni energetycznej (nie przekątnej)
+Penetracja pocisku
+Zwiększa obrażenia pocisków pocisków (nie przekątnych)
+Penetracja materiałów wybuchowych
+Zwiększa obrażenia sąsiednich broni wybuchowych (nie przekątnych)
+Ochrona energii S
+Ochrona energii S desc
+Ochrona przed pociskami S
+Ochrona przed pociskami S desc
+Ochrona materiałów wybuchowych S
+Ochrona przeciwwybuchowa S desc
+Uaktualnienie broni
+Uaktualnienie energii
+Aktualizacja pocisku
+Uaktualnienie materiałów wybuchowych
+Długość wydobycia
+Ochrona energii A
+Ochrona energetyczna Z desc
+Ochrona przed pociskami A
+Ochrona przed pociskami A desc
+Ochrona wybuchowa A
+Ochrona przeciwwybuchowa A desc
+Osłona Amp
+Zwiększa tarcie ładowania sąsiedniego boostera (nie przekątna)
+Armor Amp
+Zwiększa ładowanie zbroi sąsiednich boosterów (nie przekątnych)
+Panel CPU
+Dostarcza zewnętrznego procesora
+Uszkodzenie osłony podstawy
+Uszkodzenie kadłuba podstawy
+Uszkodzenie załogi podstawowej
+Czas przeładowania
+Oznaczenie kadłuba
+Dekoracje zewnętrzne
+Stacja badawcza
+Odblokuj nowe elementy
+Przeciągnij pole
+Zbudować
+Naprawa
+Usuń zadanie
+Kontrola zasobów
+Rozwiązanie zadania
+Ukończenie zadania
+Rdzeń statku
+Wszystkie elementy muszą być połączone z rdzeniem statku kadłuba lub podłogi.
+Średni otwór cieplny
+Pojemność
+kratka wentylacyjna
+Konsola wydobywcza
+Pracował przez wojsko. Zwiększa zasięg wydobycia dzięki umiejętnościom bojowym. [KIERUNKOWY]
+
+# 400 Tekst menu
+ŁADUNEK
+Plan
+Usunąć
+ZAŁOGA
+Przypisz łóżko
+Przypisz łóżka
+Inżynieria
+Meble
+Użyteczność
+Załoga
+Przemianować
+Drzwi
+Drzwi
+Blokada
+Airlocks
+Odblokować
+Zamek
+Zabij (debugowanie)
+Wyczyść łóżko
+Wyczyść łóżka
+Przywróć ustawienia domyślne
+Zmień nazwę załogi
+Zmień nazwę załogi
+Przydzielać
+do
+Zwinność
+Zwiększa prędkość ruchu
+Inżynieria
+Zwiększa prędkość budowania, szybkość napraw i działanie silnika
+Wytrzymałość
+Poprawia energię, głód i zdrowie
+Inteligencja
+Poprawia produkcję Ŝywności, badania i działania niezwiązane z walką
+Zdrowie
+Wzrost poprzez odpoczynek, jedzenie lub leczenie. Zmieniony wytrzymałością.
+Morale
+Poprawić przez odpoczynek, jedzenie lub meble. Zmodyfikowane przez inteligencję.
+GRACZ
+Konstrukcja elementów konstrukcyjnych
+Konstruuj meble
+Konstruuj elementy funkcjonalne
+Masa
+Ocena rozmiaru statku wykorzystywanego do unikania umiejętności
+Statek gracza
+Nazwa statku gracza
+PLAN
+Przełącz panel
+OPCJE
+Zasilanie włączone
+Element mocy
+Wyłącz
+Wyłącz składnik
+Wymagane do obsługi
+Sen
+Operacje
+Zaciski załogowe
+Jeść
+Zamówienie
+umierać
+jeść
+sen
+otwarty
+Blisko
+Bronie
+Broń i buffy broni
+kratka wentylacyjna
+Wypuszczać tlen do kosmosu
+Uszczelnić statek od odpowietrzania do kosmosu
+Przypisz konsolę
+Przypisz konsolę do załogi
+Przypisz łóżko
+Przypisz łóżko do załogi
+Włącz pracę
+Zezwalaj załodze na działanie tej struktury
+Wyłącz pracę
+Zapobiegaj tej pracy
+Sterowanie ręczne
+Podaj konkretne zlecenia temu członkowi załogi
+Zwolnij kontrolę
+Członek załogi znajdzie własne przeznaczenie
+Zmień przypisanie
+Zamówienie
+Grupa kontrolna
+Zatrzymaj kierowanie
+Zapobiegaj strzelaniu broni
+Tarcza
+Aktualny ekran i wartość naprawy
+Zbroja
+Aktualna zbroja i wartość naprawy
+Obrona
+Konstruować możliwości obronne
+Struktura
+Bieżąca struktura i wartość naprawy
+CEL
+Docelowa nazwa statku
+Tarcza statku docelowego
+Docelowa tarcza i wartość naprawy
+Docelowa zbroja statku
+Docelowa wartość zbroi bieżącego statku i jego wartość naprawczą
+Struktura statku docelowego
+Docelowa struktura prądu statku i jego wartość
+Zmień nazwę oznakowania
+Zmień nazwę oznakowania
+MOC
+Skok Warp
+Warp skok desc
+punktów obrażeń
+Ciepło
+Wydajność cieplna i chłodnicza
+Skieruj ciepło statku
+Docelowe ciepło i chłodzenie statku
+procesor
+Drink
+drink
+Struktury
+Blisko
+Kapitan rozkazał
+Zrzuć 20% metalu
+Zrzuć metal na przestrzeń
+Zrzuć 20% krzemu
+Zrzuć krzem do kosmosu
+Zrzuć 20% złota
+Zrzuć złoto do kosmosu
+Zrzuć 20% wody
+Zrzuć wodę do kosmosu
+Zrzuć 20% żywności
+Zrzuć jedzenie do kosmosu
+Walka
+Poprawia działanie bojowe
+Dokładność statku
+Dokładność + 1d10 jest porównywana z ucieczką przed wrogiem. 10 jest zawsze hitem.
+Statek uchyla się
+[Max 5] W porównaniu z dokładnością wroga + 1d10, aby uniknąć ataku. Zwiększa szansę uniknięcia kolizji asteroid.
+Docelowa dokładność statku
+Dokładność + 1d10 jest porównywana z ucieczką gracza. 10 jest zawsze hitem.
+Ucieczka statku docelowego
+[Max 5] W porównaniu z dokładnością odtwarzacza + 1d10, aby uniknąć ataku
+KOLOR
+Recolour statek
+akcent
+Skrzynia
+Silnik
+Napęd silnika
+Pancerze
+Reaktor
+mundur
+Stół
+Złoże roślinne
+Rośliny
+Brud
+Spawacz
+Tablet
+Zestaw słuchawkowy
+Skafander kosmiczny
+Przestrzeń szkła
+Gaśnica
+Woda może
+Planuj budowę
+Zdrowie załogi
+Energia załogi
+Morale załogi
+Doświadczenie załogi
+Struktura trafień
+Powtarzanie broni
+Zbuduj płytkę
+Usuń płytkę
+MOP czyszczący
+Napełnienie tarczy statku
+Opis ładowania osłony statku
+Napełnianie osłony tarczy
+Opis ładowania osłony tarczy
+Napełnianie zbroi statku
+Opis ładowania opancerzenia statku
+Docelowe uzbrojenie
+Opis ładowania zbroi docelowej
+Wrogi
+Neutralny
+Przyjazny
+Handel
+każdy
+Kupować
+Sprzedać
+dla
+Kredyty
+ZWIĄZEK
+Stan związku z celem
+OFERTY HANDLOWE
+Oferty handlowe z celem
+OFERTA ZAMIANY
+Kup od celu
+Sprzedaj do celu
+Umiejętności załogi nawigatora
+Moc silnika
+Masa
+Całkowity
+Wypalająca broń
+Umiejętność załogi broni
+Umiejętność załogi silnika
+Oddziaływać
+TO JEST KONIEC GRUPY
+
+
+
+
+# 600 Załoga, tablica łóżek
+Generał
+Czyszczenie.
+Nauka
+Badania i biologia
+Operacje
+Nawigacja, czujniki, zarządzanie ciepłem.
+Inżynier
+Budowa i remont.
+Wojskowy
+Kierowanie i obrona.
+Kapitan
+Rola dowodzenia
+Wyczyść łóżko
+Wyczyść łóżka
+Zwiadowca
+Górnik
+Transporter
+Zmień nazwę statku
+Utwórz własne oznaczenie statku
+TĘSKNIĆ
+Nastawić
+Zresetuj opcje kolorów do aktualnie stosowanych kolorów
+Zastosować
+Zastosuj nowe kolory do wysyłki
+Grać
+Pauza
+Czerwony
+Załoga skupia się na rolach bojowych i naprawach - ręcznym zamówieniom wymaganym do budowy nowych konstrukcji.
+Autofire
+Broń będzie celować automatycznie i wystrzelić na docelowy statek
+Skok
+Wykonaj skok na osiach. Wymaga opłaty i uchyla się> 0.
+niebieski
+Wszyscy załoga wracają na statek
+czarny
+Opuścić statek
+KOD
+Czujniki
+Wykrywanie zagrożeń przychodzących z dodatkowym ostrzeżeniem.
+Umiejętność załogi czujników
+Szybko
+ROLE
+Wyznaczaj role załodze
+Blokada
+Opuszczenie statku
+Wracając na statek
+Zmierzać do
+Pracujący
+Przejdź do jedzenia
+Znalezienie miejsca do jedzenia
+Jedzenie
+Idąc do wody
+Picie
+Kieruje się do wkładu medycznego
+Gojenie
+Idąc do łóżka
+Spanie
+Prowadzi do ognia
+Walka z ogniem
+Uciekając na marne
+Odpady czyszczące
+Dążenie do pracy
+Konstruowanie
+Naprawa
+Idąc na ciele
+Radzenie sobie z ciałem
+Bezczynny
+Krzesło kapitana
+nawigacja
+Czujniki
+Kierowanie
+Tarcze sterujące
+Zbroje
+Komunikacji
+Sterowanie ciepłem
+Kierunek na zamówienie
+Czekam na zamówienie
+Silniki
+Rośliny
+Sterowanie ręczne
+Załoga jest pod ręką
+Zadanie
+Przydzielone zadanie członka załogi
+Ustaw kurs
+Pole asteroid
+Podpis statku
+Konsola badawcza
+Kontroli górniczej
+
+# 800 Tekst menu głównego
+Nowy
+Załadować
+Opcje
+Porzucić
+Zapisać
+Kontyntynuj
+Puste miejsce
+Escape Pod 02
+Początek
+Zaniedbanie
+Wybierz nową załogę
+Załoga
+Wznawianie
+Wideo
+Audio
+Sterownica
+Berło
+Mistrz
+Ruchomości
+Menu
+Muzyka
+Tom
+Opis objętości głównej
+Opis objętości efektu
+Opis pojemności menu
+Opis głośności muzyki
+Równowaga stereo
+-1 (pełny lewy) do 1 (pełne prawo). Domyślnie = 0.
+Mieszanka przestrzenna
+0 (2d) do 1 (3d). Domyślnie = 1.
+Doppler
+0 (brak) do 5 (pełne). Domyślnie = 0.
+Czułość powiększenia
+Czułość zoomu aparatu
+Powiększ do kursora
+Powiększ do kursora lub przybliż do centrum ekranu
+Powiększ odwróć
+Odwróć koło zamachowe
+Włącz porady
+Włącz w etykietkach gier
+Opóźnienie z instrukcją
+Zwiększ lub zmniejsz czas, zanim pojawi się etykietka narzędziowa
+Przeciągnij czułość
+Czułość przeciągania aparatu
+UI skalowania
+Eksperymentalny. Zgłoszono, że powoduje problemy z FPS. Domyślnie 1.
+Ustawienie kolorów
+Kliknij lewym przyciskiem myszy, aby ustawić. Kliknij prawym przyciskiem myszy, aby wyczyścić.
+Okno
+Włącz wyświetlanie okien
+Pełny ekran
+Włącz ekran pełnoekranowy
+Max FPS
+Ustaw maksymalną liczbę FPS
+Żaden
+VSYNC
+Przełącz VSYNC
+Akcent menu
+Ustaw kolor akcentu menu
+Zresetuj ustawienia menu
+Przywraca domyślne ustawienia wszystkich ustawień menu
+Ustaw na pełną rozdzielczość
+Maksymalna odległość
+Dźwięk gry na odległość można słyszeć ze źródła. Domyślnie 100.
+Przytrzymaj przycisk
+Ustaw przełącznik kursora / wprowadź dźwięk
+Kliknij przycisk
+Ustaw dźwięk kliknięcia przycisku
+Powodzenie
+Ustaw dźwięk sukcesu przycisku
+Błąd
+Ustaw dźwięk błędu przycisku
+Podwójny czas zaczepienia
+Ustaw podwójne okno czasów
+Ładuję
+Pierwsze obciążenie
+Język
+Ustaw język (wymaga ponownego uruchomienia)
+język angielski
+uproszczony chiński
+chiński tradycyjny
+Francuski
+Niemiecki
+Polskie
+portugalski
+Rosyjski
+język hiszpański
+szwedzki
+Zwyczaj
+UI alfa
+Przejrzystość tła panelu interfejsu użytkownika
+Powiadomienie
+Kolor powiadomienia ze strony załogi
+Włącz alarm
+Włącz dźwięk alarmu
+Importowanie statków wroga
+Import
+Importuj i zastosuj kolory z pliku
+Eksport
+Eksportuj kolory do pliku
+Panel załogi maks
+Maksymalna liczba wierszy panelu załogi do pokazania
+STARY
+Panel zadań maks
+Maksymalna liczba wierszy panelu zadań do wyświetlenia
+Panel kompaktowy max
+Maksymalna liczba wierszy panelu komponentów do wyświetlenia
+Zresetuj sterowanie
+Zeruje wszystkie powiązania klawiszy na domyślne
+Smoła
+Opis zmian skoku. Domyślnie 15.
+Panel powiadomień maks
+Maksymalna liczba wierszy panelu powiadomień, które mają zostać wyświetlone
+Automatycznie zaprogramuj timer
+Minuty pomiędzy automatycznym zapisem
+
+# 1000 Wiązania klawiszy
+M1 nieużywane
+Mysz 1
+M2 nieużywane
+Mysz 2
+Przeciągnij aparat
+Przeciągnij aparat
+Potwierdź tekst
+Potwierdź wpis
+Potwierdź tekst 2
+Potwierdź wpis 2
+Zaznacz wszystko / Zapisz grupę
+Zaznacz wszystko / zapisz grupę
+nie używany
+Nieużywane desc
+Grupa kontrolna 1
+Wybierz grupę kontrolną 1
+Grupa kontrolna 2
+Wybierz grupę kontrolną 2
+Grupa kontrolna 3
+Wybierz grupę kontrolną 3
+Grupa kontrolna 4
+Wybierz grupę kontrolną 4
+Grupa kontrolna 5
+Wybierz grupę kontrolną 5
+Grupa kontrolna 6
+Wybierz grupę kontrolną 6
+Grupa kontrolna 7
+Wybierz grupę kontrolną 7
+Grupa kontrolna 8
+Wybierz grupę kontrolną 8
+Grupa kontrolna 9
+Wybierz grupę kontrolną 9
+Grupa kontrolna 10
+Wybierz grupę kontrolną 10
+Wybierz / usuń pojedynczy
+Wybierz / usuń pojedynczą strukturę / załogę
+Przestań strzelać
+Zatrzymaj wybraną strzelnicę
+Wyłącz
+Wyłącz wybrane struktury
+Zasilanie włączone
+Włącz wybrane struktury
+Zwolnij kontrolę
+Zwolnij kontrolę wybranej załogi
+Przejąć kontrolę
+Przejmij kontrolę nad wybraną załogą
+Włącz pracę
+Włącz pracę na wybranej strukturze
+Wyłączanie / zatrzymywanie pracy
+Wyłącz pracę na wybranej strukturze
+Pauza
+Wstrzymaj grę
+Zamek drzwi / śluzy
+Blokada wybranych blokad
+Odblokować drzwi / śluzę
+Odblokuj wybrane blokady
+Śluza wentylacyjna
+Wietrzna blokada przestrzeni
+Zamknij śluzę
+Zatrzymaj odpowietrzenie z zamków
+Obróć CW
+Obracaj strukturę zgodnie z ruchem wskazówek zegara
+Obróć CCW
+Obróć strukturę w lewo
+Panel planu
+Włącz / wyłącz panel planu
+Panel załogi
+Włącz / wyłączyć panel załogi
+Panel ładunkowy
+Włącz / wyłącz panel ładunkowy
+Panel statku
+Włącz / wyłączyć panel okrętowy
+Panel kolorowy
+Włącz / wyłącz panel kolorów
+Usunąć
+Szybkie przełączanie usuwa się podczas budowania
+Priorytet
+Szybkie przełączanie priorytetów podczas budowania
+Przełącz czerwony kod
+Włącz / wyłącz kod czerwony
+Przełącz autofire
+Włącz / wyłącz autofire
+Przypisz konsolę
+Przypisz załogę do pracy z tą konsolą
+Przypisz łóżko
+Przypisz załogę do tego łóżka
+Pójdź spać
+Załaduj załogę do spania
+Zjem jeść
+Załatuj załogę do jedzenia
+Zamów napój
+Zamów napój załogi
+Przełącz kod niebieski
+Włącz / wyłącz kod niebieski
+Skok Warp
+Wymaga pełnego naładowania i> 0 uchyla się
+Przełącz kod czarny
+Włącz / wyłącz kod czarny
+Panel ról
+Włącz / wyłącz panel ról
+Przełącz szybkość gry
+Przełącz prędkość gry
+Kamera centralna
+Kamera centralna na statku
+Panel zadań
+Włączanie / wyłączanie panelu zadań
+Panel strukturalny
+Włączyć / wyłączyć panel struktury
+Panel badawczy
+Włącz / wyłącz panel badawczy
+Panel powiadomień
+Włącz / wyłącz panel powiadomień
+Przełącz interfejs użytkownika
+Włącz / wyłącz UI
+Zbliżenie
+Powiększ kamerę
+Powiększ
+Wysuń kamerę
+Szybki zapis
+Zapisz grę w gnieździe szybkiego zapisu
+Szybkie ładowanie
+Zapisz grę w gnieździe szybkiego ładowania
+
+# 1200 TYTUŁ
+Alpha 1.2e
+KONIEC GRY
+
+
+
+# 1400 Kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową
+Utworzyć kopię zapasową

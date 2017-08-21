@@ -1,0 +1,992 @@
+//
+// fichier texte en anglais
+//
+// // ignore la ligne
+// # début de nouvelle catégorie
+//
+
+
+# 000 Avis de texte et d'équipage Tooltip
+Transport maritime
+Capacité de stockage
+Aliments
+Besoin d'équipage
+Métal
+Obligatoire pour presque toutes les constructions
+Eau
+Besoin d'équipage
+Crédits
+Total des crédits
+Panneau du plan
+Construit des pièces
+Panneau d'équipage
+Vue d'ensemble de l'équipage. Cliquez-bas pour centrer sur le membre de l'équipage.
+Total Crew
+Total combiné de l'équipage
+Puissance
+Nécessaire pour alimenter les composants
+Énergie
+Rechargé en dormant
+Rechargé en mangeant
+A besoin
+Puissance
+Or
+Nécessaire pour la construction de composants complexes
+Silicium
+Nécessaire pour la construction de composants simples
+Rechargé en buvant
+Nécessaire pour exécuter des composants
+Faim
+La soif
+exigence
+Unités
+disponible
+utilisé
+Durabilité
+Expérience
+Gagné en travaillant.
+renforcer
+refroidissement
+Ils se rendent!
+Commerce
+réussi
+infructueux
+Navire détecté sur les scanners à longue portée
+Champ d'astéroïdes détecté à l'avance
+Star détecté à l'avance
+Target ship est hostile! Inutilisé
+Surchauffe des systèmes
+Excès de fret évacué
+Oxygène
+Obligatoire pour les sports nautiques
+Ship est maintenant sur un cours d'interception
+On dirait un navire commercial
+Ils lancent leurs armes!
+Nous sommes scannés
+Ils mettent leurs armes en marche
+Ils partent
+Expédition sortant
+Ship a changé de cap et nous intercepte
+Le navire ne nous a pas détectés
+Menacer
+Menace la cible
+Pot-de-vin
+Subordonner l'objectif à partir
+Ils ne sont pas actuellement hostiles
+Ils essaient de s'échapper!
+Le navire cible se décompose
+Notre pot-de-vin était réussi
+Le pot-de-vin a échoué
+Notre menace a été couronnée de succès
+Notre menace a échoué
+Nous n'avons pas de nourriture
+Nous n'avons pas d'eau
+Impossible d'accéder à la nourriture
+Ne peut pas accéder à l'eau
+Définir un nouveau cours sur le champ d'astéroïdes
+Mettre en place un nouveau cours pour signer la signature
+Nouveau cours
+Mettre un cours sur le champ d'astéroïdes
+Nouveau cours
+Mettre en place la signature du navire
+Le navire présente déjà
+Nous sommes trop proches du champ actuel
+Caméra centrale
+les tâches
+Composants
+Panneau de tâches
+Examinez les tâches en file d'attente. Cliquez au milieu pour centrer sur la tâche.
+Panneau de composant
+Examinez les composants alimentés installés. Cliquez sur le milieu pour centrer sur le composant.
+Composant allumé
+Mise hors tension des composants
+l'utilisation du processeur
+Utilisation de l'énergie
+Pouvoir de basculement
+Basculer la desc.
+Recherche
+Recherchez de nouveaux composants
+Il faut des points de recherche
+Liaisons codées
+Nouvel équipage
+Champs obligatoires
+Pour toute construction prévue
+le progrès
+Notifications
+Notifications commandées par les plus récentes au top
+Sélectionnez l'équipage
+Sélectionnez un nouvel équipage pour vendre
+a été détruit
+
+Bouton des boutons Build 200
+Retirer
+Annuler les plans ou supprimer la structure. Remboursement du coût total si elle n'est pas endommagée, sinon remboursé le pourcentage de HP.
+coque
+Construire la base du navire - les coins exposés ne fuient pas
+Sol
+Construire sur la coque pour créer des pièces
+Lit
+Améliore le bien-être
+Petite caisse
+Ajouter la capacité de chargement
+Caisse moyenne
+Unités
+Distributeur d'aliments
+Fournit des aliments [DIRECTIONNEL]
+Moteur moyen
+Nécessite une maintenance. Ne peut pas être construit sur les coins. Augmenter l'élimination par
+Grand moteur
+Nécessite une maintenance. Ne peut pas être construit sur les coins. Augmenter l'élimination par
+XLarge moteur
+Nécessite une maintenance. Ne peut pas être construit sur les coins. Augmenter l'élimination par
+chaise
+Utilisé pour manger et par l'équipe d'opérations. On peut se promener.
+Petite table
+Mieux vaut manger sur le sol
+Table moyenne
+Mieux vaut manger sur le sol
+Grande table
+Mieux vaut manger sur le sol
+Porte
+Peut être verrouillé
+Selle d'air
+Nécessaire pour le baladeur spatial. Peut être ventilé.
+Prioriser
+Prioriser la tâche
+Panneau solaire
+Génère du pouvoir
+Solaire
+Coin de coque
+Description de l'angle de coque
+Lit de petite plante
+Utilisé pour cultiver 1 aliment
+Lit de plante moyenne
+Utilisé pour cultiver 2 aliments
+Grand lit de plante
+Utilisé pour cultiver 4 aliments
+Petit réacteur
+Génère de l'énergie. Nécessite une maintenance.
+Réacteur moyen
+Génère de l'énergie. Nécessite une maintenance.
+Grand réacteur
+Génère de l'énergie. Nécessite une maintenance.
+Console de navigation
+A travaillé par les opérations. Augmente l'élan par les compétences de l'intelligence. [DIRECTIONNEL]
+Console de capteur
+A travaillé par les opérations. Augmente le temps de notification par les compétences du renseignement. [DIRECTIONNEL]
+Console d'armes
+A travaillé par des militaires. Augmente l'exactitude grâce aux compétences de combat. [DIRECTIONNEL]
+Console de protection
+A travaillé par des militaires. Augmente la recharge du bouclier par des compétences de combat. [DIRECTIONNEL]
+Grande caisse
+Ajouter la capacité de chargement
+Petit moteur
+Nécessite une maintenance. Ne peut pas être construit sur les coins. Augmenter l'élimination par
+Générateur de bouclier
+Recharge la cellule de protection.
+Soutien de la vie
+Pompes à l'oxygène
+Support de vie moyen
+Description de la vie moyenne
+Grand soutien de vie
+Large descente de support de vie
+Tourte au laser
+Arme d'énergie de base
+Cellule de protection
+Composant du bouclier de base. Nécessite une charge.
+Lanceur Torpedo
+Arme explosive puissante à feu lent
+Rocket pod
+Arme explosive multi-shot
+Rétroviseur plasma
+Arme à énergie de tir rapide
+Railgun
+Arme à projectile difficile
+Tourelle EMP
+Arme énergétique efficace contre les boucliers
+Chaîne pistolet
+Arme à projectile multi-projectiles
+Amplificateur de bouclier
+Recharge la cellule de protection
+Plaque de petite armure
+Fournit un tampon d'armure
+Plaque d'armure moyenne
+Fournit un tampon d'armure
+Grande plaque d'armure
+Fournit un tampon d'armure
+Réparateur d'armure
+Utilise des nanobots pour recharger le tampon d'armure
+Chaise des capitaines
+Fournit des bonus de vitesse, de moral et d'énergie
+Noyau de Warp
+Doubles pousse la vitesse de recharge du lecteur
+Laser minier
+Mines de métal, de silicium, d'or et d'eau. La gamme peut être augmentée avec console ou extension.
+Marquage de sol
+Décoration intérieure
+Imprimante de circuit
+Disquette de l'imprimante de circuit
+Health pad
+Permet la guérison de l'équipage. Peut se promener quand il n'est pas utilisé.
+Trappe de cargaison
+Ajouter une capacité de chargement externe
+Console Comms
+A travaillé par les opérations. Augmente le temps de notification par les compétences du renseignement. [DIRECTIONNEL]
+Console de chaleur
+A travaillé par les opérations. Augmenter le montant de l'évent de chaleur par intelligence. [DIRECTIONNEL]
+Ensemble de communications
+Disque de communication
+Petit dégagement de chaleur
+Diminue la chaleur
+Petit panneau solaire
+Génère du pouvoir
+Panneau solaire moyen
+Génère du pouvoir
+Ensemble CPU
+Fournit un processeur
+Refroidisseur d'eau
+Fournit de l'eau
+Ensemble de capteurs
+Détection de menace antérieure
+Attelle de coque
+Augmente le tampon de structure. On peut se promener.
+Console d'armure
+A travaillé par des militaires. Améliore la recharge d'armure par compétences de combat [DIRECTIONNEL]
+Limite 1
+Console claire
+Décembre clair de la console
+Extension minière
+Augmente la portée minière
+Pénétration d'énergie
+Augmente les dégâts des armes à énergie adjacentes (pas diagonales)
+Pénétration du projectile
+Augmente les dégâts des armes à projectile adjacentes (pas diagonales)
+Pénétration explosive
+Augmente les dégâts des armes explosives adjacentes (pas diagonales)
+Protection énergétique S
+Protection de l'énergie S desc
+Protection anti projectile S
+Protection projectile S desc
+Protection contre les explosions S
+Protection contre les explosions S desc
+Mise à niveau de l'arme
+Mise à jour énergétique
+Mise à niveau du projectile
+Mise à niveau explosive
+Longueur de l'extraction minière
+Protection de l'énergie A
+Protection de l'énergie A desc
+Protection anti projectile A
+Protection des projectiles A desc
+Protection contre les explosions A
+Protection contre les explosions A desc
+Shield Amp
+Augmente la recharge du bouclier de l'amplificateur adjacent (pas diagonal)
+Armure Amp
+Augmente la recharge d'armure de l'amplificateur adjacent (pas diagonal)
+Panneau CPU
+Fournit une CPU à l'extérieur
+Dégâts du bouclier
+Dommage de la coque de base
+Dommage de l'équipe de base
+Temps de rechargement
+Marquage de coque
+Décoration extérieure
+Une station de recherche
+Débloquer de nouveaux composants
+Boîte de glissement
+Construction
+réparation
+Supprimer la tâche
+Vérification des ressources
+Exécution des tâches
+Progression de l'achèvement des tâches
+Noyau du navire
+Tous les composants doivent être connectés au noyau du navire par la coque ou le plancher.
+Ventilation thermique moyenne
+capacité
+Évent
+Console d'extraction
+A travaillé par des militaires. Augmente la portée des mines par des compétences de combat. [DIRECTIONNEL]
+
+# 400 Texte du menu
+CARGAISON
+Plan
+Retirer
+ÉQUIPAGE
+Affecter du lit
+Affecter des lits
+Ingénierie
+Meubles
+Utilitaire
+Équipage
+Rebaptiser
+Porte
+Des portes
+Selle d'air
+Les aéronefs
+Ouvrir
+Fermer à clé
+Kill (debug)
+Lit clair
+Lits clairs
+Réinitialiser par défaut
+Renommer l'équipage
+Renommer l'équipe desc
+Attribuer
+à
+Agilité
+Améliore la vitesse de déplacement
+Ingénierie
+Améliore la vitesse de construction, la vitesse de réparation et le fonctionnement du moteur
+Endurance
+Améliore l'énergie, la faim et la santé
+Intelligence
+Améliore la production alimentaire, la recherche et le non-combat
+Santé
+Augmenter le repos, l'alimentation ou le traitement médical. Modifié par l'endurance.
+Moral
+Améliorez le repos, la consommation ou le mobilier. Modifié par le renseignement.
+JOUEUR
+Construire des composants d'ingénierie
+Construire des meubles
+Construire des composants fonctionnels
+Masse
+Évaluation de la taille du navire utilisé dans la compétence d'élimination
+Navire de joueur
+Nom du navire du joueur
+PLAN
+Panneau de commande
+OPTIONS
+Allumer
+Composant de puissance
+Éteindre
+Désactiver le composant
+Requis pour fonctionner
+Dormir
+Opérations
+Terminaux équipés
+Manger
+Commande
+mourir
+manger
+dormir
+Ouvrir
+Fermer
+Armes
+Armes et artilleurs
+Vent
+Vent de l'oxygène à l'espace
+Seal ship de l'aération à l'espace
+Assigner une console
+Assigner une console à l'équipage
+Affecter du lit
+Affecter du lit à l'équipage
+Activer le travail
+Autoriser l'équipage à travailler sur cette structure
+Désactiver le travail
+Empêchez cette structure d'être travaillé
+Contrôle manuel
+Donnez des commandes spécifiques à ce membre d'équipage
+Contrôle de la libération
+Le membre d'équipage trouvera son propre destin
+Réaffecter
+Commande
+Groupe de contrôle
+Arrêter de cibler
+Empêcher l'arme de tirer
+Bouclier
+Valeur actuelle et valeur de réparation
+Armure
+Armure actuelle et valeur de réparation
+Défenses
+Construire des capacités défensives
+Structure
+Structure actuelle et valeur de réparation
+CIBLE
+Désignation du navire cible
+Bouclier cible du navire
+Target shield actuel et valeur de réparation
+Armure de navire cible
+Cible d'armure actuelle du navire et valeur de réparation
+Structure du navire cible
+Structure actuelle du navire cible et valeur de réparation
+Renommer le marquage
+Renommer le marquage
+PUISSANCE
+Warp Jump
+Warp jump desc
+points de dommage
+Chaleur
+Capacité de chaleur et de refroidissement
+Cible de la chaleur du navire
+Cibler la chaleur et la capacité de refroidissement du navire
+CPU
+Boisson
+boisson
+Structures
+Fermer
+Ordres du capitaine
+Dump 20% métal
+Dump métallique à l'espace
+Dump 20% de silicium
+Dump du silicium à l'espace
+Dump 20% or
+Dump or to space
+Déverser 20% d'eau
+Déverser de l'eau dans l'espace
+Dump 20% de nourriture
+Dump food to space
+Combat
+Améliore l'opération de combat
+Exactitude du navire
+La précision + 1d10 est comparée à l'élimination de l'ennemi. 10 est toujours un succès.
+Evacuation du navire
+[Max 5] Comparé à l'exactitude de l'ennemi + 1d10 pour échapper à l'attaque. Augmente les chances d'éviter une collision avec les astéroïdes.
+Préciser l'exactitude du navire
+La précision + 1d10 est comparée à l'élimination du joueur. 10 est toujours un succès.
+Cibler échapper au navire
+[Max 5] Comparé à l'exactitude du joueur + 1d10 pour éviter l'attaque
+COULEUR
+Navire de récupération
+accent
+Caisse
+Moteur
+Propulsion du moteur
+Plaques d'armure
+Réacteur
+uniforme
+Table
+Lit d'usine
+Les plantes
+Saleté
+Soudeur
+Tablette
+Casque
+Costume spatial
+Veste de costume spatiale
+Extincteur
+Canette d'eau
+Plan de construction
+Santé de l'équipage
+Énergie de l'équipage
+Le moral de l'équipage
+Expérience d'équipage
+Points forts de la structure
+Répétition d'arme
+Construire un carreau
+Supprimer le carreau
+Balai de nettoyage
+Recharge de bouclier de navire
+Description de la recharge du bouclier de navire
+Récupération du bouclier cible
+Description de la recharge du blindage cible
+Recharge d'armure de navire
+Description de la recharge d'armure de navire
+Reclassement d'armures cibles
+Description de la recharge d'armure cible
+Hostile
+Neutre
+Amical
+Commerce
+chaque
+Acheter
+Vendre
+pour
+crédits
+RELATION
+Statut de relation avec cible
+OFFRES COMMERCIALES
+Offres commerciales avec objectif
+OFFRE COMMERCIALE
+Acheter à partir de la cible
+Vendre à cibler
+Compétences de l'équipage Nav
+Puissance du moteur
+Masse
+Total
+Armes de tir
+Compétence de l'équipage d'armes
+Compétence de l'équipage
+Interagir
+C'EST LA FIN DE CE GROUPE
+
+
+
+
+# 600 Équipage, panneau de lits
+Général
+Nettoyage.
+Science
+Recherche et biologie
+Opérations
+Navigation, capteurs, gestion de la chaleur.
+Ingénieur
+Construction et réparation.
+Militaire
+Ciblage et défense.
+Capitaine
+Rôle de commandement
+Lit clair
+Lits clairs
+Scout
+Mineur
+Transporteur
+Renommer le navire
+Créez votre propre désignation de navire
+MANQUER
+Réinitialiser
+Réinitialiser les options de couleur aux couleurs actuellement appliquées
+Appliquer
+Appliquer de nouvelles couleurs pour expédier
+Jouer
+Pause
+rouge
+Le focus de l'équipage sur les rôles et les réparations de combat - les commandes manuelles nécessaires à la construction de nouvelles structures.
+Tir automatique
+Les armes seront automatiquement ciblées et tirées sur le navire cible
+Saut
+Exécutez le saut de chaîne. Exige des frais et échappe> 0.
+Bleu
+Tout l'équipage retourne au bateau
+Noir
+Vaisseau abandonné
+CODE
+Capteurs
+Détecter les menaces entrantes avec un avertissement supplémentaire.
+Compétence du capteur
+Avance rapide
+LES RÔLES
+Désigner des rôles à l'équipage
+Selle d'air
+Départ du navire
+Retour au bateau
+En direction de
+Travail
+Aller à la nourriture
+Lieu de recherche à manger
+En mangeant
+Aller à l'eau
+En buvant
+Aller vers le pad de santé
+Guérison
+Aller au lit
+En train de dormir
+Aller au feu
+Lutte contre le feu
+Aller au gaspillage
+Déchets de nettoyage
+Aller au travail
+Construire
+Réparation
+Aller au corps
+Traiter avec le corps
+Tourner au ralenti
+Chaise de capitaine
+la navigation
+Capteurs
+ciblage, ciblé, ciblant
+Contrôle du bouclier
+Contrôles d'armure
+Communications
+Contrôles de chaleur
+Commande à la commande
+En attente d'ordre
+Les moteurs
+les plantes
+Contrôle manuel
+L'équipage est sous contrôle manuel
+Tâche
+Tâche attribuée par le membre d'équipage
+Cours établi
+Champ d'astéroïdes
+Signature du navire
+Console de recherche
+Contrôles miniers
+
+# 800 Texte du menu principal
+Nouveau
+Charge
+Options
+Quitter
+sauvegarder
+Continuer
+Emplacement vide
+Escape Pod 02
+Début
+Défaut
+Sélectionnez un nouvel équipage
+Équipage
+CV
+Vidéo
+l'audio
+Contrôles
+Interface
+Maîtriser
+Effets
+Menu
+La musique
+le volume
+Description du volume principal
+Description du volume des effets
+Description du volume du menu
+Description du volume de musique
+Balance stéréo
+-1 (plein à gauche) à 1 (plein droit). Par défaut = 0.
+Mélange spatial
+0 (2d) à 1 (3d). Par défaut = 1.
+Niveau Doppler
+0 (aucun) à 5 (plein). Par défaut = 0.
+Sensibilité au zoom
+Sensibilité au zoom de l'appareil photo
+Zoom sur le curseur
+Zoom sur le curseur ou zoom sur le centre de l'écran
+Zoom avant
+Inverser la roue de la souris
+Activer les info-bulles
+Activer dans les info-bulles du jeu
+Délai d'information
+Augmenter ou diminuer le temps avant l'apparition d'une info-bulle
+Sensibilité à la glissade
+Sensibilité à la glissière
+Scal UI
+Expérimental. Signalé pour causer des problèmes de FPS. Défaut 1.
+Préréglage couleur
+Cliquez à gauche pour définir. Faites un clic droit pour l'effacer.
+Windowed
+Activer l'affichage à fenêtres
+Plein écran
+Activer l'affichage en plein écran
+Max FPS
+Définir le FPS maximum
+Aucun
+VSYNC
+Basculer VSYNC
+Accent de menu
+Définir la couleur d'accent du menu
+Réinitialiser le menu
+Réinitialise tous les paramètres du menu par défaut
+Réglage de la résolution en plein écran
+Distance maximale
+L'audio du jeu à distance peut être entendu à partir de la source. Par défaut 100.
+Panneau à boutons
+Régler le bouton flotter / entrer le son
+Clic bouton
+Bouton Set cliquez sur le son
+Succès
+Définir le son du succès du bouton
+Erreur
+Réglage du signal d'erreur du bouton
+Temps de prise double
+Régler la fenêtre double fois
+Chargement
+Première charge
+La langue
+Définir la langue (nécessite un redémarrage)
+Anglais
+chinois simplifié
+Chinois traditionnel
+français
+allemand
+polonais
+Portugais
+russe
+Espanol
+suédois
+Douane
+UI alpha
+Transparence de fond d'écran de l'interface utilisateur
+Notification
+Couleur de notification de l'équipage
+Activer l'alarme
+Activer les sons d'alarme
+Importation de navires ennemis
+Importer
+Importer et appliquer des couleurs à partir du fichier
+Exportation
+Exporter les couleurs appliquées au fichier
+Panneau d'équipage max.
+Le nombre maximum de lignes de panneaux d'équipage à afficher
+VIEUX
+Panneau de tâches max.
+Le nombre maximum de lignes de panneaux de tâches à afficher
+Panneau de composants max.
+Le nombre maximum de lignes de panneaux de composants à afficher
+Réinitialiser les contrôles
+Réinitialise toutes les liaisons de touches par défaut
+Pas
+Description du changement de hauteur. Par défaut 15.
+Panneau de notification max.
+Le nombre maximum de lignes de panneaux de notification à afficher
+Temporisateur automatique
+Minutes entre autosave
+
+
+# 1000 liens clés
+M1 inutilisé
+Souris 1
+M2 inutilisé
+Souris 2
+Glisser la caméra
+Glisser la caméra
+Confirmer le texte
+Confirmer l'entrée de texte
+Confirmer le texte 2
+Confirmer l'entrée de texte 2
+Sélectionnez tout / Enregistrer le groupe
+Sélectionnez tout / enregistrer le bouton de groupe
+inutilisé
+Description non utilisée
+Groupe témoin 1
+Sélectionnez le groupe de contrôle 1
+Groupe témoin 2
+Sélectionnez le groupe de contrôle 2
+Groupe témoin 3
+Sélectionnez le groupe de contrôle 3
+Groupe témoin 4
+Sélectionnez le groupe de contrôle 4
+Groupe témoin 5
+Sélectionnez le groupe de contrôle 5
+Groupe témoin 6
+Sélectionnez le groupe de contrôle 6
+Groupe témoin 7
+Sélectionnez le groupe de contrôle 7
+Groupe témoin 8
+Sélectionnez le groupe de contrôle 8
+Groupe témoin 9
+Sélectionnez le groupe de contrôle 9
+Groupe témoin 10
+Sélectionnez le groupe de contrôle 10
+Sélectionnez / supprimez seul
+Sélectionner / supprimer une structure / équipage unique
+Arrêter de tirer
+Arrête le tir des armes sélectionné
+Éteindre
+Éteindre les structures sélectionnées
+Allumer
+Mise sous tension des structures sélectionnées
+Contrôle de la libération
+Contrôle de la libération de l'équipage sélectionné
+Prendre le contrôle
+Prendre le contrôle de l'équipe sélectionnée
+Activer le travail
+Activer le travail sur une structure sélectionnée
+Désactiver / arrêter le travail
+Désactiver le travail sur une structure sélectionnée
+Pause
+Pause jeu
+Serrure de porte / sas
+Verrouiller les passagers sélectionnés
+Débloquer la porte / le sas
+Débloquer les airs sélectionnés
+Verrou de ventilation
+Purge d'air à l'espace
+Fermer l'air
+Arrêtez de sortir du sas
+Faire pivoter CW
+Tourner la structure dans le sens des aiguilles d'une montre
+Faire pivoter CCW
+Faire pivoter la structure dans le sens inverse des aiguilles d'une montre
+Panneau du plan
+Active / désactive le panneau plan
+Panneau d'équipage
+Active / désactive le panneau d'équipe
+Panneau de chargement
+Activer / désactiver le panneau de chargement
+Panneau de navire
+Activer / désactiver le panneau du navire
+Panneau couleur
+Allumer / éteindre le panneau de couleurs
+Retirer
+Démarrage rapide lors de la construction
+Prioriser
+Le basculement rapide priorise tout en construisant
+Bascule le code rouge
+Activer / désactiver le code rouge
+Toggle autofire
+Activer / désactiver le feu automatique
+Assigner une console
+Assignez l'équipage pour travailler cette console
+Affecter du lit
+Assignez l'équipage à ce lit
+Commande de sommeil
+Commander l'équipage pour dormir
+Commander manger
+Commander l'équipage pour manger
+Commander boire
+Commander l'équipe de boisson
+Toggle code blue
+Activer / désactiver le code bleu
+Warp Jump
+Nécessite une charge complète et> 0 échappe
+Bascule le code noir
+Activer / désactiver le code noir
+Panneau des rôles
+Active / désactive le panneau des rôles
+Basculer la vitesse du jeu
+Bascule la vitesse de jeu
+Caméra centrale
+Caméra centrale sur navire
+Panneau de tâches
+Active / désactive le panneau de tâches
+Panneau de structure
+Active / désactive le panneau de structure
+Panel de recherche
+Active / désactive le panneau de recherche
+Panneau de notification
+Active / désactive le panneau de notification
+Toggle UI
+Activer / désactiver l'interface utilisateur
+Agrandir
+Caméra zoom
+Dézoomer
+Zoom de la caméra
+Sauvegarde rapide
+Enregistrer le jeu dans l'espace de sauvegarde rapide
+Chargement rapide
+Enregistrer le jeu sur l'emplacement de chargement rapide
+
+
+# 1200 TITLE
+Alpha 1.2e
+JEU TERMINÉ
+
+
+
+# 1400 Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde
+Sauvegarde

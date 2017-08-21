@@ -1,0 +1,993 @@
+//
+// englische Textdatei
+//
+// // Zeile ignorieren
+// # Anfang der neuen Kategorie
+//
+
+
+# 000 Tooltip-Text- und Besatzungsbenachrichtigungen
+Schiffsfracht
+Speicherkapazität
+Essen
+Besatzungsanforderung
+Metall
+Erforderlich für fast alle Bauweise
+Wasser
+Besatzungsanforderung
+Kredite
+Gesamt Credits
+Planplatte
+Konstruieren Sie Teile
+Besatzungstafel
+Besatzungsübersicht Mittlerer Klick zum Zentrum auf Crewmitglied.
+Total Crew
+Kombinierte Besatzung insgesamt
+Leistung
+Erforderlich für Stromkomponenten
+Energie
+Aufgeladen durch schlafen
+Aufgeladen durch Essen
+Erfordert
+Leistung
+Gold
+Erforderlich für den Bau komplexer Bauteile
+Silizium
+Erforderlich für den Bau von einfachen Komponenten
+Aufgeladen durch trinken
+Erforderlich zum Ausführen von Komponenten
+Hunger
+Durst
+Anforderung
+Einheiten
+verfügbar
+in Benutzung
+Haltbarkeit
+Erfahrung
+Gewonnen durch Arbeit.
+Steigern
+Kühlung
+Sie geben sich auf!
+Handel
+erfolgreich
+erfolglos
+Schiff bei Langstreckenscannern erkannt
+Asteroidfeld erkannt voraus
+Star erkannt voraus
+Zielschiff ist feindlich! Unbenutzt
+Überhitzung der Systeme
+Überschüssige Ladung belüftet
+Sauerstoff
+Erforderlich für Spacewalks
+Schiff ist jetzt auf einem Abfangkurs
+Sieht aus wie ein Handelsschiff
+Sie machen ihre Waffen an!
+Wir werden gescannt
+Sie bringen ihre Waffen an
+Sie gehen ab
+Schiff ausgebende Kette
+Das Schiff hat sich verändert und wird uns abfangen
+Das Schiff hat uns nicht entdeckt
+Drohen
+Bedrohen Sie das Ziel
+Bestechung
+Bringen Sie das Ziel zum Verlassen
+Sie sind derzeit nicht feindlich
+Sie versuchen zu entkommen!
+Das Zielschiff zerbricht
+Unsere Bestechung war erfolgreich
+Bribe scheiterte
+Unsere Bedrohung war erfolgreich
+Unsere Bedrohung ist gescheitert
+Wir haben kein Essen
+Wir haben kein Wasser
+Kann nicht auf Nahrung zugreifen
+Kann nicht auf wasser zugreifen
+Einen neuen Kurs zum Asteroidenfeld setzen
+Einen neuen Kurs einstellen, um Signatur zu versenden
+Neuer Kurs
+Stellen Sie den Kurs zum Asteroidenfeld ein
+Neuer Kurs
+Stellen Sie den Kurs zur Signatur ein
+Schiff bereits vorhanden
+Wir sind zu nahe am aktuellen Feld
+Center-Kamera
+Aufgaben
+Komponenten
+Aufgabenbereich
+Aufgaben in der Warteschlange aufrufen. Mittlerer Klick, um die Aufgabe zu zentrieren.
+Komponenten-Panel
+Überprüfen Sie installierte angetriebene Komponenten. Mittlerer Klick, um die Komponente zu zentrieren.
+Komponenten einschalten
+Komponenten ausschalten
+CPU auslastung
+Stromverbrauch
+Toggle Macht
+Umschalten der Stromversorgung
+Forschung
+Forschung neue Komponenten
+Forschungspunkte benötigt
+Hardcoded Bindungen
+Neue Besatzung
+erforderlich
+Für alle geplanten bau
+Fortschritt
+Benachrichtigungen
+Mitteilungen, die von den meisten am besten bestellt wurden
+Wähle die Besatzung
+Wählen Sie neue Mannschaft zu verkaufen
+wurde zerstört
+
+# 200 Build Schaltflächen Text
+Entfernen
+Pläne abbrechen oder Struktur entfernen Rückerstattungen volle Kosten, wenn unbeschädigt, sonst Rückerstattung HP Prozentsatz.
+Rumpf
+Konstruieren Sie Schiffsbasis - exponierte Ecken nicht auslaufen
+Stock
+Bauen Sie auf Rumpf, um Räume zu schaffen
+Bett
+Verbessert das Wohlbefinden
+Kleine Kiste
+Frachtkapazität hinzufügen
+Mittlere Kiste
+Einheiten
+Lebensmittelspender
+Bietet Nahrung [RICHTUNG]
+Mittlerer Motor
+Erfordert Wartung. Kann nicht auf Ecken gebaut werden. Zunahme ausweichen
+Großer Motor
+Erfordert Wartung. Kann nicht auf Ecken gebaut werden. Zunahme ausweichen
+XLarge Motor
+Erfordert Wartung. Kann nicht auf Ecken gebaut werden. Zunahme ausweichen
+Sessel
+Verwendet für das Essen und durch Betriebsmannschaft. Kann überfahren werden
+Kleiner Tisch
+Besser als auf dem Boden zu essen
+Mitteltisch
+Besser als auf dem Boden zu essen
+Großer Tisch
+Besser als auf dem Boden zu essen
+Tür
+Kann gesperrt werden
+Airlock
+Erforderlich für Spacewalking. Kann entlüftet werden
+Priorisieren
+Priorisierung der Aufgabe
+Sonnenkollektor
+Strom erzeugt
+Solar
+Rumpf-Ecke
+Rumpf-Ecke desc
+Kleine Pflanze Bett
+Verwendet, um 1 Essen zu wachsen
+Mittleres Pflanzenbett
+Verwendet, um 2 Essen zu wachsen
+Großes Pflanzbett
+Verwendet, um 4 Essen zu wachsen
+Kleiner Reaktor
+Strom erzeugt. Erfordert Wartung.
+Mittelreaktor
+Strom erzeugt. Erfordert Wartung.
+Großer Reaktor
+Strom erzeugt. Erfordert Wartung.
+Navigationskonsole
+Gearbeitet durch Operationen. Erhöhte sich durch Intelligenz Geschick ausweichen. [RICHTUNG]
+Sensorkonsole
+Gearbeitet durch Operationen. Erhöht die Benachrichtigungszeit durch Intelligenzfähigkeit. [RICHTUNG]
+Waffenkonsole
+Von Militär gearbeitet Erhöht die Genauigkeit durch Kampffertigkeit. [RICHTUNG]
+Schildkonsole
+Von Militär gearbeitet Erhöht die Schildaufladung durch Kampffertigkeit. [RICHTUNG]
+Große Kiste
+Frachtkapazität hinzufügen
+Kleiner Motor
+Erfordert Wartung. Kann nicht auf Ecken gebaut werden. Zunahme ausweichen
+Schildgenerator
+Lädt die Schildzelle auf.
+Lebenserhaltung
+Pumpt Sauerstoff
+Mittlere Lebensunterstützung
+Mittlere Lebensunterstützung
+Große lebensunterstützung
+Große lebensunterstützung desc
+Laserturm
+Grundlegende Energiewaffe
+Schildzelle
+Basisschildkomponente. Erfordert das Aufladen.
+Torpedo-Trägerrakete
+Langsame Zündung mächtige explosive Waffe
+Raketenhülse
+Multi-shot explosive Waffe
+Plasma-Revolver
+Schnelle Feuerwaffe
+Railgun
+Harte schlagende Projektilwaffe
+EMP Revolver
+Energiewaffe gegen Schilde
+Chaingun
+Mehrschuss-Projektilwaffe
+Schild Booster
+Lädt die Schildzelle auf
+Kleine Rüstungsplatte
+Bietet Panzerpuffer
+Mittlere Rüstungsplatte
+Bietet Panzerpuffer
+Große Rüstungsplatte
+Bietet Panzerpuffer
+Rüstungsreparaturwerkstatt
+Verwendet Nanobots, um Rüstungspuffer aufzuladen
+Kapitänstuhl
+Bietet Geschwindigkeit, Moral und Energie-Boni
+Warp-Kern
+Doubles springt Laufwerk Ladegeschwindigkeit
+Bergbau-Laser
+Minen Metall, Silizium, Gold und Wasser. Reichweite kann mit Konsole oder Extender erhöht werden.
+Bodenmarkierung
+Interne Dekoration
+Schaltungsdrucker
+Schaltungsdrucker
+Gesundheitskissen
+Ermöglicht die Heilung der Besatzung. Kann zu Fuß um, wenn nicht in Gebrauch.
+Frachtluke
+Zusätzliche Ladungskapazität hinzufügen
+Comms-Konsole
+Gearbeitet durch Operationen. Erhöht die Benachrichtigungszeit durch Intelligenzfähigkeit. [RICHTUNG]
+Wärmekonsole
+Gearbeitet durch Operationen. Erhöhung der Wärmeentlüftungsmenge durch Intelligenzfähigkeit. [RICHTUNG]
+Comms-Array
+Kommunikations-Array-Beschreibung
+Kleine Wärmeentlüftung
+Senkt die Hitze
+Kleine Solarpanel
+Strom erzeugt
+Mittleres Solarpanel
+Strom erzeugt
+CPU-Array
+Bietet CPU
+Wasserkühler
+Bietet Wasser
+Sensor-Array
+Frühere Bedrohungserkennung
+Rumpfklammer
+Erhöht den Strukturpuffer. Kann überfahren werden
+Rüstungskonsole
+Von Militär gearbeitet Verbessert die Rüstungsaufladung durch Kampffertigkeit [DIRECTIONAL]
+Limit 1
+Klar Konsole
+Löschen der Konsole desc
+Bergbau Extender
+Erhöht den Bergbaubereich
+Energiepenetration
+Erhöht den Schaden an benachbarten Energiewaffen (nicht diagonal)
+Projektile Durchdringung
+Erhöht die Schäden an benachbarten Projektilwaffen (nicht diagonal)
+Explosive Durchdringung
+Erhöht die Beschädigung von angrenzenden explosiven Waffen (nicht diagonal)
+Energieschutz S
+Energieschutz S desc
+Projektilschutz S
+Geschossschutz
+Explosionsschutz S
+Explosionsschutz S desc
+Waffen-Upgrade
+Energie-Upgrade
+Projektil-Upgrade
+Explosives Upgrade
+Bergbaulänge
+Energieschutz A
+Energieschutz A desc
+Geschossschutz A
+Geschossschutz
+Explosionsschutz A
+Explosionsschutz
+Schild Amp
+Erhöht die Schildaufladung des angrenzenden Boosters (nicht diagonal)
+Rüstung Amp
+Erhöht die Rüstungsaufladung des angrenzenden Boosters (nicht diagonal)
+CPU-Panel
+Stellt die CPU extern zur Verfügung
+Basisschildschaden
+Bodenschaden
+Basisbesatzung Schaden
+Nachladezeit
+Rumpfmarkierung
+Außendekoration
+Forschungsstation
+Neue Komponenten freischalten
+Ziehen Sie den Kasten
+Bauen
+Reparieren
+Aufgabe entfernen
+Ressourcenprüfung
+Aufgabenstellung
+Fortschritt der Aufgabenstellung
+Schiffskern
+Alle Komponenten müssen mit dem Schiffskern durch Rumpf oder Boden verbunden werden.
+Mittlerer Wärmeabzug
+Kapazität
+Entlüften
+Bergbaukonsole
+Von Militär gearbeitet Erhöht den Bergbaubereich durch Kampffertigkeit. [RICHTUNG]
+
+# 400 Menütext
+LADUNG
+Planen
+Entfernen
+CREW
+Bett zuweisen
+Betten zuweisen
+Ingenieurwesen
+Möbel
+Dienstprogramm
+Crew
+Umbenennen
+Tür
+Türen
+Airlock
+Airlocks
+Freischalten
+Sperren
+Töten (debug)
+Klares Bett
+Klare Betten
+Zurücksetzen
+Umbenennen der Besatzung
+Umbenennen der Besatzung desc
+Zuordnen
+nach
+Beweglichkeit
+Verbessert die Bewegungsgeschwindigkeit
+Ingenieurwesen
+Verbessert die Baugeschwindigkeit, die Reparaturgeschwindigkeit und den Motorbetrieb
+Ausdauer
+Verbessert Energie, Hunger und Gesundheit
+Intelligenz
+Verbessert die Nahrungsmittelproduktion, Forschung und Nicht-Kampfbetrieb
+Gesundheit
+Erhöhung durch Ruhe, Essen oder medizinische Behandlung. Geändert durch Ausdauer.
+Moral
+Verbessern durch Ruhe, Essen oder Möbel. Geändert durch Intelligenz.
+SPIELER
+Konstruktionskomponenten konstruieren
+Konstruieren Sie Möbel
+Konstruieren Sie funktionale Komponenten
+Masse
+Größe des Schiffes, das in evade Geschick verwendet wird
+Spielerschiff
+Name des Spielers
+PLANEN
+Toggle-Panel
+OPTIONEN
+Ein
+Leistungskomponente
+Ausschalten
+Komponente deaktivieren
+Erforderlich zu betreiben
+Schlaf
+Operationen
+Besatzungsklemmen
+Essen
+Auftrag
+sterben
+Essen
+Schlaf
+Öffnen
+Schließen
+Waffen
+Waffen und Waffenfänger
+Entlüftung
+Sauerstoff in den Raum bringen
+Siegelschiff von der Entlüftung zum Raum
+Konsole zuordnen
+Konsole der Besatzung zuordnen
+Bett zuweisen
+Weisen Sie die Besatzung zu
+Arbeit aktivieren
+Erlaube die Besatzung, an dieser Struktur zu arbeiten
+Arbeit deaktivieren
+Verhindern, dass diese Struktur gearbeitet wird
+Manuelle Kontrolle
+Geben Sie diesem Besatzungsmitglied bestimmte Aufträge an
+Freigabekontrolle
+Besatzungsmitglied wird ihr eigenes Schicksal finden
+Neu zuordnen
+Auftrag
+Kontrollgruppe
+Stoppen Sie die Ausrichtung
+Verhindere Waffe vom Schießen
+Schild
+Aktueller Schild und Reparaturwert
+Rüstung
+Aktueller Rüstungs- und Reparaturwert
+Verteidigt
+Konstruieren Sie defensive Fähigkeiten
+Struktur
+Aktueller Struktur- und Reparaturwert
+ZIEL
+Zielschiffsbezeichnung
+Zielschild
+Zielschiff Strom Schild und Reparatur Wert
+Zielschiff Rüstung
+Zielschiff aktuelle Rüstung und Reparatur Wert
+Zielschiffsstruktur
+Zielschiff Stromstruktur und Reparaturwert
+Markierung markieren
+Markierung markieren
+LEISTUNG
+Warp Sprung
+Kettfadensprung
+Trefferpunkte
+Hitze
+Wärme- und Kühlleistung
+Zielschiffshitze
+Zielhitze- und Kühlleistung
+Zentralprozessor
+Getränk
+Getränk
+Strukturen
+Schließen
+Captains Befehle
+Dump 20% Metall
+Dump Metall auf Platz
+Dump 20% Silizium
+Dump-Silizium in den Weltraum
+Dump 20% Gold
+Dump Gold auf Platz
+Dump 20% Wasser
+Dump Wasser auf Platz
+Dump 20% Essen
+Dump Essen in den Weltraum
+Kampf
+Verbessert den Kampfbetrieb
+Schiffsgenauigkeit
+Genauigkeit + 1d10 wird verglichen mit feindlichen Ausweichen. 10 ist immer ein Hit.
+Schiff entweichen
+[Max 5] Verglichen mit feindlicher Genauigkeit + 1d10, um den Angriff zu umgehen. Erhöht die Chance, Asteroiden zu vermeiden.
+Zielschiffsgenauigkeit
+Genauigkeit + 1d10 wird verglichen mit Spieler ausweichen. 10 ist immer ein Hit.
+Zielschiff entziehen
+[Max 5] Verglichen mit der Spielergenauigkeit + 1d10, um den Angriff zu umgehen
+FARBE
+Umfuhrschiff
+Akzent
+Kiste
+Motor
+Motorschub
+Rüstungsplatten
+Reaktor
+Uniform
+Tabelle
+Pflanzbett
+Pflanzen
+Schmutz
+Schweißer
+Tablette
+Headset
+Raumanzug
+Raumanzug Glas
+Feuerlöscher
+Wasserdose
+Plangebäude
+Besatzungsgesundheit
+Crew Energie
+Besatzungsmoral
+Besatzungserfahrung
+Struktur Schlagpunkte
+Waffenwiederholung
+Bauen Sie Fliesen
+Fliese entfernen
+Wischmopp
+Schiffsschild wieder aufladen
+Schiffsschild Wiederaufladung Beschreibung
+Zielschild wieder aufladen
+Zielschild Aufladung Beschreibung
+Schiffsrüstung aufladen
+Schiffsrüstung Beschreibung
+Zielpanzeraufladung
+Zielpanzeraufladung Beschreibung
+Feindlich
+Neutral
+Freundlich
+Handel
+jede einzelne
+Kaufen
+Verkaufen
+zum
+Kredite
+BEZIEHUNG
+Beziehungsstatus mit Ziel
+HANDEL ANGEBOTE
+Handelsangebote mit Ziel
+HANDELSANGEBOT
+Kauf von Ziel
+Verkauf zum Ziel
+Nav crew Fertigkeit
+Motorleistung
+Masse
+Gesamt
+Waffen abwischen
+Waffenbesatzung
+Motorenbesatzung
+Interagieren
+DAS IST DAS ENDE DIESER GRUPPE
+
+
+
+
+# 600 Mannschaft, Bettenplatte
+General
+Reinigung.
+Wissenschaft
+Forschung und Biologie
+Operationen
+Navigation, Sensoren, Wärmemanagement.
+Ingenieur
+Bau und Reparatur.
+Militär
+Ausrichtung und Verteidigung
+Kapitän
+Befehlsrolle
+Klares Bett
+Klare Betten
+Erkunden
+Bergmann
+Transporter
+Umbenennen Schiff
+Erstellen Sie Ihre eigene Schiffsbezeichnung
+FRÄULEIN
+Zurücksetzen
+Zurücksetzen der Farboptionen auf die aktuell angewandten Farben
+Sich bewerben
+Wenden Sie neue Farben an
+Spielen
+Pause
+Rot
+Mannschaftsfokus auf Kampfrollen und Reparaturen - manuelle Aufträge zum Bau neuer Strukturen erforderlich.
+Autofire
+Waffen werden automatisch Ziel und Feuer auf Zielschiff
+Springen
+Kettfaden ausführen Benötigt Ladung und entzieht> 0.
+Blau
+Alle Mannschaft kehrt zum Schiff zurück
+Schwarz
+Schiff verlassen
+CODE
+Sensoren
+Erkennung eingehender Bedrohungen mit zusätzlicher Warnung.
+Sensor Crew Fertigkeit
+Schneller Vorlauf
+ROLES
+Bezeichnen Sie Rollen zur Besatzung
+Airlock
+Wegfahren
+Rückkehr zum Schiff
+Unterwegs zu
+Arbeiten
+Auf dem Weg zum Essen
+Ort zu essen finden
+Essen
+Überschrift zum Wasser
+Trinken
+Überschrift zum Gesundheitskissen
+Heilung
+Überschrift zu Bett
+Schlafen
+Überschrift zum Feuer
+Feuer bekämpfen
+Überschrift zu verschwenden
+Reinigungsabfälle
+Auf den Weg zum Job
+Konstruieren
+Reparieren
+Auf den Weg zum Körper
+Umgang mit Körper
+Leerlauf
+Kapitänsstuhl
+Navigation
+Sensoren
+Zielen
+Schildkontrollen
+Rüstungssteuerungen
+Kommunikation
+Wärmekontrollen
+Überschrift zu bestellen
+Warten auf Bestellung
+Motoren
+Pflanzen
+Manuelle Kontrolle
+Besatzung ist unter manueller Kontrolle
+Aufgabe
+Besatzung des Besatzungsmitglieds
+Kurs einstellen
+Asteroidfeld
+Schiffsunterschrift
+Forschungskonsole
+Bergbau Kontrollen
+
+# 800 Hauptmenütext
+Neu
+Belastung
+Optionen
+Verlassen
+sparen
+Fortsetzen
+Leerer Schlitz
+Escape Pod 02
+Anfang
+Standard
+Wähle neue Mannschaft
+Crew
+Fortsetzen
+Video
+Audio
+Steuert
+Schnittstelle
+Meister
+Auswirkungen
+Menü
+Musik
+Volumen
+Hauptvolumenbeschreibung
+Effektvolumenbeschreibung
+Menüvolumenbeschreibung
+Musikvolumenbeschreibung
+Stereo-Balance
+-1 (ganz links) bis 1 (ganz rechts). Standard = 0.
+Räumliche Mischung
+0 (2d) bis 1 (3d). Standard = 1.
+Doppler-Ebene
+0 (keine) bis 5 (voll). Standard = 0.
+Zoomempfindlichkeit
+Kamera-Zoom-Empfindlichkeit
+Zoom zum Cursor
+Zoom auf Cursor oder Zoom auf Bildschirm zentrieren
+Zoom invertieren
+Mousewheel umkehren
+Werkzeugtips aktivieren
+Aktivieren Sie in Spiel-Tooltips
+Tooltip Verzögerung
+Erhöhen oder verringern Sie die Zeit, bevor Tooltip angezeigt wird
+Ziehen Sie die Empfindlichkeit
+Kamera-Ziehempfindlichkeit
+Skala UI
+Experimental. Berichtet, um FPS-Probleme zu verursachen. Voreinstellung 1.
+Farbvorgabe
+Klicken Sie mit der linken Maustaste. Klicken Sie mit der rechten Maustaste.
+Fenster
+Fensteransicht aktivieren
+Vollbild
+Vollbildschirm aktivieren
+Max FPS
+Maximales FPS einstellen
+Keiner
+VSYNC
+VSYNC umschalten
+Menü Akzent
+Set-Menü Akzentfarbe
+Menüeinstellungen zurücksetzen
+Setzt alle Menüeinstellungen auf Standard zurück
+Auf Vollbildschirm einstellen
+Max. Abstand
+Distanzspiel Audio kann aus der Quelle gehört werden. Voreinstellung 100.
+Taste schweben
+Setzen Sie die Taste hover / geben Sie den Sound ein
+Button klicken
+Setzen Sie den Klick auf Ton
+Erfolg
+Setzen Sie den Schaltflächen-Erfolgston
+Fehler
+Stellen Sie den Tastenfehler ein
+Doppelte Hahnzeit
+Legen Sie das doppelte Tap-Zeitfenster fest
+Laden
+Erste Last
+Sprache
+Sprache einstellen (Neustart erforderlich)
+Englisch
+vereinfachtes Chinesisch
+chinesische Tradition
+Französisch
+Deutsche
+Polieren
+Portugiesisch
+Russisch
+Spanisch
+Schwedisch
+Brauch
+UI alpha
+UI-Panel Hintergrund Transparenz
+Benachrichtigung
+Besatzungsmeldung Farbe
+Alarm aktivieren
+Alarmtöne aktivieren
+Import von feindlichen Schiffen
+Einführen
+Import und Anwendung von Farben aus Datei
+Export
+Exportiert angewandte Farben in Datei
+Besatzungsfeld max
+Die maximale Anzahl der Besatzungsfeldzeilen, die angezeigt werden sollen
+ALT
+Aufgabenbereich max
+Die maximale Anzahl der Task-Panel-Zeilen, die angezeigt werden sollen
+Bauteil max
+Die maximal zulässige Anzahl von Komponenten-Panel-Zeilen
+Steuerelemente zurücksetzen
+Setzt alle Schlüsselbindungen auf Standard zurück
+Tonhöhe
+Pitch ändern Beschreibung. Default 15.
+Benachrichtigungsfeld max
+Die maximale Anzahl der Benachrichtigungsfeldzeilen, die angezeigt werden sollen
+Automatischer Timer
+Minuten zwischen autosave
+
+# 1000 Schlüsselbindungen
+M1 unbenutzt
+Maus 1
+M2 unbenutzt
+Maus 2
+Kamera ziehen
+Kamera ziehen
+Text bestätigen
+Texteingabe bestätigen
+Text bestätigen 2
+Texteingabe bestätigen 2
+Alles auswählen / Gruppe speichern
+Alles auswählen / Gruppe speichern
+Unbenutzt
+Unbenutzte
+Kontrollgruppe 1
+Wählen Sie die Kontrollgruppe 1 aus
+Kontrollgruppe 2
+Wählen Sie die Kontrollgruppe 2 aus
+Kontrollgruppe 3
+Wählen Sie die Kontrollgruppe 3 aus
+Kontrollgruppe 4
+Wählen Sie die Kontrollgruppe 4 aus
+Kontrollgruppe 5
+Wählen Sie die Kontrollgruppe 5 aus
+Kontrollgruppe 6
+Steuergruppe auswählen 6
+Kontrollgruppe 7
+Steuergruppe auswählen 7
+Kontrollgruppe 8
+Steuergruppe auswählen 8
+Kontrollgruppe 9
+Kontrollgruppe auswählen 9
+Kontrollgruppe 10
+Steuergruppe auswählen 10
+Einzelauswahl / entfernen
+Einzelne / Besatzung auswählen / entfernen
+Hör auf zu schießen
+Stoppen Sie ausgewählte Waffenschießen
+Ausschalten
+Ausgewählte Strukturen ausschalten
+Ein
+Aktivieren Sie ausgewählte Strukturen
+Freigabekontrolle
+Freigabe der kontrollierten Besatzung
+Die Kontrolle übernehmen
+Übernahme der ausgewählten Mannschaft
+Arbeit aktivieren
+Aktivieren Sie die Arbeit an der ausgewählten Struktur
+Deaktivieren / Halten der Arbeit
+Deaktivieren Sie die Arbeit an der ausgewählten Struktur
+Pause
+Pause Spiel
+Schloß Tür / Luftschleuse
+Sperren Sie ausgewählte Schleusen
+Türschloss entriegeln
+Entriegelung ausgewählter Schleusen
+Entlüftungsschloss
+Entlüftungsschacht zum Raum
+Schließen Sie die Schleuse
+Stoppen Sie die Entlüftung von der Schleuse
+CW drehen
+Drehen Sie die Struktur im Uhrzeigersinn
+CCW drehen
+Drehen Sie die Struktur gegen den Uhrzeigersinn
+Planplatte
+Plan-Panel ein- / ausschalten
+Besatzungstafel
+Umschalttafel ein- / ausschalten
+Frachtschild
+Umschalttafel ein- / ausschalten
+Schiffsplatte
+Umschalttafel ein- / ausschalten
+Farbtafel
+Farbfeld ein- / ausschalten
+Entfernen
+Schnelles Umschalten beim Bauen
+Priorisieren
+Schnelles Umschalten von Prioritäten beim Bauen
+Toggle-Code rot
+Code ein- / ausschalten
+Umschalten von Autofire
+Schalten Sie den Autofire ein / aus
+Konsole zuordnen
+Zuordnen der Besatzung, um diese Konsole zu bearbeiten
+Bett zuweisen
+Beige die Besatzung zu diesem Bett
+Schlaf bestellen
+Besatzungsmannschaft schlafen
+Bestellen essen
+Besatzung zu essen
+Bestellen trinken
+Bestellen Besatzung trinken
+Toggle-Code blau
+Code ein- / ausschalten
+Warp Sprung
+Erfordert volle Aufladung und> 0 Ausweichen
+Toggle-Code schwarz
+Code ein- / ausschalten
+Rollenbedienfeld
+Rollen ein- / ausschalten
+Spielgeschwindigkeit umschalten
+Umschaltgeschwindigkeit umschalten
+Center-Kamera
+Center-Kamera auf dem Schiff
+Aufgabenbereich
+Aufgabenbereich ein- / ausschalten
+Strukturfeld
+Strukturtafel ein- / ausschalten
+Forschungsstelle
+Umschalttafel ein- / ausschalten
+Benachrichtigungsfeld
+Schalten Sie das Benachrichtigungsfeld ein / aus
+UI umschalten
+UI ein- / ausschalten
+Hineinzoomen
+Zoom-Kamera in
+Rauszoomen
+Zoom-Kamera heraus
+Schnellspeichern
+Spiel auf den schnellen Speicherplatz speichern
+Schnell laden
+Spiel auf den schnellen Ladeschlitz speichern
+
+
+
+
+# 1200 TITEL
+Alpha 1.2e
+SPIEL IST AUS
+
+
+
+# 1400 Sichern
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung
+Sicherung

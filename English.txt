@@ -1,0 +1,990 @@
+//
+//	English text file
+//
+//	//	ignore line
+//	#	start of new category	
+//
+
+
+#	000		Tooltip text and crew notifications
+Ship cargo
+Storage capacity
+Food
+Crew requirement
+Metal
+Required for nearly all construction
+Water
+Crew requirement
+Credits
+Total credits
+Plan panel
+Construct parts
+Crew panel
+Crew overview. Middle click to center on crewmember.
+Total Crew
+Combined crew total
+Power
+Required to power components
+Energy
+Recharged by sleeping
+Recharged by eating
+Requires
+power
+Gold
+Required for construction of complex components
+Silicon
+Required for construction of simple components
+Recharged by drinking
+Required to run components
+Hunger
+Thirst
+requirement
+units
+available
+in use
+Durability
+Experience
+Gained by working.
+boost
+cooling
+They're surrendering!
+Trade
+successful
+unsuccessful
+Ship detected on long range scanners
+Asteroid field detected ahead
+Star detected ahead
+Target ship is hostile! Unused
+Systems overheating
+Excess cargo vented
+Oxygen
+Required for spacewalks
+Ship is now on an intercept course
+Looks like a trade ship
+They're powering up their weapons!
+We are being scanned
+They're powering up their weapons
+They're leaving
+Ship exiting warp
+Ship has changed course and will intercept us
+The ship has not detected us
+Threaten
+Threaten the target
+Bribe
+Bribe the target into leaving
+They're not currently hostile
+They're trying to escape!
+The target ship is breaking apart
+Our bribe was successful
+Bribe failed
+Our threat was successful
+Our threat failed
+We have no food
+We have no water
+Can't access food
+Can't access water
+Setting new course to asteroid field
+Setting new course to ship signature
+New course
+Set course to asteroid field
+New course
+Set course to ship signature
+Ship already present
+We're too close to current field
+Center camera
+Tasks
+Components
+Task panel
+Review queued tasks. Middle click to center on task.
+Component panel
+Review installed powered components. Middle click to center on component.
+Component power on
+Component power off
+CPU usage
+Power usage
+Toggle power
+Toggle power desc
+Research
+Research new components
+research points needed
+Hardcoded bindings
+New crew
+required
+for all planned construction
+progress
+Notifications
+Notifications ordered by most recent at top
+Select crew
+Select new crew to sell
+was destroyed
+
+#	200		Build buttons text
+Remove
+Cancel plans or remove structure. Refunds full cost if undamaged, otherwise refunds HP percentage.
+Hull
+Construct ship base - exposed corners do not leak
+Floor
+Build on hull to create rooms
+Bed
+Improves wellness
+Small Crate
+Add cargo capacity
+Medium Crate
+units
+Food dispenser
+Provides food [DIRECTIONAL]
+Medium engine
+Requires maintenance. Cannot be built on corners. Increase evade by 
+Large engine
+Requires maintenance. Cannot be built on corners. Increase evade by 
+XLarge engine
+Requires maintenance. Cannot be built on corners. Increase evade by 
+Chair
+Used for eating and by operations crew. Can be walked over.
+Small table
+Better than eating on the floor
+Medium table
+Better than eating on the floor
+Large table
+Better than eating on the floor
+Door
+Can be locked. Not airtight.
+Airlock
+Required for spacewalking. Can be vented.
+Prioritize
+Prioritize task
+Solar panel
+Generates power
+Solar
+Hull corner
+Hull corner desc
+Small plant bed
+Used to grow 1 food
+Medium plant bed
+Used to grow 2 food
+Large plant bed
+Used to grow 4 food
+Small reactor
+Generates power. Requires maintenance.
+Medium reactor
+Generates power. Requires maintenance.
+Large reactor
+Generates power. Requires maintenance.
+Navigation console
+Worked by operations. Increases evade by intelligence skill. Can be used to head towards asteroid/ship. [DIRECTIONAL]
+Sensor console
+Worked by operations. Increases notification time by intelligence skill. [DIRECTIONAL]
+Weapons console
+Worked by military. Increases accuracy by combat skill. [DIRECTIONAL]
+Shield console
+Worked by military. Increases shield recharge by combat skill. [DIRECTIONAL]
+Large crate
+Add cargo capacity
+Small engine
+Requires maintenance. Cannot be built on corners. Increase evade by 
+Shield generator
+Recharges shield cell.
+Life support
+Pumps oxygen
+Medium life support
+Medium life support desc
+Large life support
+Large life support desc
+Laser turret
+Basic energy weapon
+Shield cell
+Base shield component. Requires charging.
+Torpedo launcher
+Slow firing powerful explosive weapon
+Rocket pod
+Multi shot explosive weapon
+Plasma turret
+Fast firing energy weapon
+Railgun
+Hard hitting projectile weapon
+EMP turret
+Energy weapon effective against shields
+Chaingun
+Multi shot projectile weapon
+Shield booster
+Recharges shield cell
+Small armor plate
+Provides armor buffer
+Medium armor plate
+Provides armor buffer
+Large armor plate
+Provides armor buffer
+Armor repairer
+Uses nanobots to recharge armor buffer
+Captains chair
+Provides speed, morale and energy bonuses
+Warp core
+Doubles jump drive recharge speed
+Mining laser
+Mines metal, silicon, gold and water. Range can be increased with console or extender.
+Floor marking
+Internal decoration
+Circuit printer
+Circuit printer desc
+Health pad
+Enables crew healing. Can walk over when not in use.
+Cargo hatch
+Add external cargo capacity
+Comms console
+Worked by operations. Increases notification time by intelligence skill. [DIRECTIONAL]
+Heat console
+Worked by operations. Increase heat vent amount by intelligence skill. [DIRECTIONAL]
+Comms array
+Communications array desc
+Small heat vent
+Lowers heat
+Small solar panel
+Generates power
+Medium solar panel
+Generates power
+CPU array
+Provides CPU
+Water cooler
+Provides water
+Sensor array
+Earlier threat detection
+Hull brace
+Increases structure buffer. Can be walked over.
+Armor console
+Worked by military. Improves armor recharge by combat skill [DIRECTIONAL]
+Limit 1
+Clear console
+Clear console desc
+Mining extender
+Increases mining range
+Energy penetration
+Increases damage of adjacent energy weapons (not diagonal)
+Projectile penetration
+Increases damage of adjacent projectile weapons (not diagonal)
+Explosive penetration
+Increases damage of adjacent explosive weapons (not diagonal)
+Energy protection S
+Energy protection S desc
+Projectile protection S
+Projectile protection S desc
+Explosive protection S
+Explosive protection S desc
+Weapon upgrade
+Energy upgrade
+Projectile upgrade
+Explosive upgrade
+Mining length
+Energy protection A
+Energy protection A desc
+Projectile protection A
+Projectile protection A desc
+Explosive protection A
+Explosive protection A desc
+Shield Amp
+Increases shield recharge of adjacent booster (not diagonal)
+Armor Amp
+Increases armor recharge of adjacent booster (not diagonal)
+CPU panel
+Provides CPU externally
+Base shield damage
+Base hull damage
+Base crew damage
+Reload time
+Hull marking
+External decoration
+Research station
+Unlock new components
+Drag box
+Construct
+Repair
+Remove task
+Resource check
+Task completion
+Progress of task completion
+Ship core
+All components must be connected to the ship core by hull or floor.
+Medium heat vent
+capacity
+vent
+Mining console
+Worked by military. Increases mining range by combat skill. [DIRECTIONAL]
+
+#	400		Menu text
+CARGO
+Plan
+Remove
+CREW
+Assign bed
+Assign beds
+Engineering
+Furniture
+Utility
+Crew
+Rename
+Door
+Doors
+Airlock
+Airlocks
+Unlock
+Lock
+Kill (debug)
+Clear bed
+Clear beds
+Reset to default
+Rename crew
+Rename crew desc
+Assign 
+to
+Agility
+Improves movement speed
+Engineering
+Improves building speed, repair speed and engine operation
+Endurance
+Improves energy, hunger and health
+Intelligence
+Improves food production, research and non combat operation
+Health
+Increase by resting, eating, or medical treatment. Modified by endurance.
+Morale
+Improve by resting, eating, or furniture. Modified by intelligence.
+PLAYER
+Construct engineering components
+Construct furniture
+Construct functional components
+Mass
+Size rating of ship used in evade skill
+Player ship
+Player ship name
+PLAN
+Toggle panel
+OPTIONS
+Power on
+Power component
+Power off
+Disable component
+required to operate
+Sleep
+Operations
+Crew operated terminals
+Eat
+Order
+die
+eat
+sleep
+Open
+Close
+Weapons
+Weapons and weapon buffs
+Vent
+Vent oxygen to space
+Seal ship from venting to space
+Assign console
+Assign console to crew
+Assign bed
+Assign bed to crew
+Enable work
+Allow crew to work on this structure
+Disable work
+Prevent this structure from being worked
+Manual control
+Give specific orders to this crew member
+Release control
+Crew member will find their own destiny
+Reassign
+Order
+Control group
+Stop targeting
+Prevent weapon from shooting
+Shield
+Current shield and repair value
+Armor
+Current armor and repair value
+Defences
+Construct defensive capabilities
+Structure
+Current structure and repair value
+TARGET
+Target ship designation
+Target ship shield
+Target ship current shield and repair value
+Target ship armor
+Target ship current armor and repair value
+Target ship structure
+Target ship current structure and repair value
+Rename marking
+Rename marking
+POWER
+Warp jump
+Warp jump desc
+hit points
+Heat
+Heat and cooling capacity
+Target ship heat
+Target ship heat and cooling capacity
+CPU
+Drink
+drink
+Structures
+Close
+Captain's orders
+Dump 20% metal
+Dump metal to space
+Dump 20% silicon
+Dump silicon to space
+Dump 20% gold
+Dump gold to space
+Dump 20% water
+Dump water to space
+Dump 20% food
+Dump food to space
+Combat
+Improves combat operation
+Ship accuracy
+Accuracy + 1d10 is compared against enemy evade. 10 is always a hit.
+Ship evade
+[Max 5] Compared against enemy accuracy + 1d10 to evade attack. Increases chance to avoid asteroid collision.
+Target ship accuracy
+Accuracy + 1d10 is compared against player evade. 10 is always a hit.
+Target ship evade
+[Max 5] Compared against player accuracy + 1d10 to evade attack
+COLOR
+Recolour ship
+accent
+Crate
+Engine
+Engine thrust
+Armor plates
+Reactor
+uniform
+Table
+Plant bed
+Plants
+Dirt
+Welder
+Tablet
+Headset
+Space suit
+Space suit glass
+Extinguisher
+Water can
+Plan building
+Crew health
+Crew energy
+Crew morale
+Crew experience
+Structure hit points
+Weapon repeat
+Build tile
+Remove tile
+Cleaning mop
+Ship shield recharge
+Ship shield recharge description
+Target shield recharge
+Target shield recharge description
+Ship armor recharge
+Ship armor recharge description
+Target armor recharge
+Target armor recharge description
+Hostile
+Neutral
+Friendly
+Trade
+each
+Buy
+Sell
+for
+credits
+RELATIONSHIP
+Relationship status with target
+TRADE OFFERS
+Trade offers with target
+TRADE OFFER
+Buy from target
+Sell to target
+Nav crew skill
+Engine power
+Mass
+Total
+Firing weapons
+Weapon crew skill
+Engine crew skill
+Interact
+THIS IS THE END OF THIS GROUP
+
+
+
+
+#	600		Crew, beds panel
+General
+Cleaning.
+Science
+Research and biology
+Operations
+Navigation, sensors, heat management.
+Engineer
+Construction and repair.
+Military
+Targeting and defense.
+Captain
+Command role
+Clear bed
+Clear beds
+Scout
+Miner
+Transporter
+Rename ship
+Create your own ship designation
+MISS
+Reset
+Reset color options to currently applied colors
+Apply
+Apply new colors to ship
+Play
+Pause
+Red
+Crew focus on combat roles and repairs - manual orders required to build new structures.
+Autofire
+Weapons will auto target and fire on target ship
+Jump
+Execute warp jump. Requires charge and evade > 0.
+Blue
+All crew to return to ship
+Black
+Abandon ship
+CODE
+Sensors
+Detect incoming threats with additional warning.
+Sensor crew skill
+Fast forward
+ROLES
+Designate roles to crew
+Airlock
+Leaving ship
+Returning to ship
+Heading to
+Working
+Heading to food
+Finding place to eat
+Eating
+Heading to water
+Drinking
+Heading to health pad
+Healing
+Heading to bed
+Sleeping
+Heading to fire
+Fighting fire
+Heading to waste
+Cleaning waste
+Heading to job
+Constructing
+Repairing
+Heading to body
+Dealing with body
+Idle
+Captain's chair
+navigation
+sensors
+targeting
+shield controls
+armor controls
+communications
+heat controls
+Heading to order
+Waiting for order
+engines
+plants
+Manual control
+Crew is under manual control
+Task
+Crew member's allocated task
+Set course
+Asteroid field
+Ship signature
+research console
+mining controls
+
+#	800		Main menu text
+New
+Load
+Options
+Quit
+Save
+Continue
+Empty slot
+Escape Pod 02
+Start
+Default
+Select new crew
+Crew
+Resume
+Video
+Audio
+Controls
+Interface
+Master
+Effects
+Menu
+Music
+volume
+Master volume description
+Effects volume description
+Menu volume description
+Music volume description
+Stereo balance
+-1 (full left) to 1 (full right). Default = 0.
+Spatial blend
+0 (2d) to 1 (3d). Default = 1.
+Doppler level
+0 (none) to 5 (full). Default = 0.
+Zoom sensitivity
+Camera zoom sensitivity
+Zoom to cursor
+Zoom to cursor or zoom to screen centre
+Zoom invert
+Invert mousewheel
+Enable tooltips
+Enable in game tooltips
+Tooltip delay
+Increase or decrease the time before tooltip appears
+Drag sensitivity
+Camera drag sensitivity
+Scale UI
+Experimental. Reported to cause FPS issues. Default 1.
+Color preset
+Left click to set. Right click to clear.
+Windowed
+Enable windowed display
+Fullscreen
+Enable fullscreen display
+Max FPS
+Set maximum FPS
+None
+VSYNC
+Toggle VSYNC
+Menu accent
+Set menu accent color
+Reset menu settings
+Resets all menu settings to default
+Set to fullscreen resolution
+Max distance
+Distance game audio can be heard from source. Default 100.
+Button hover
+Set button hover/enter sound
+Button click
+Set button click sound
+Success
+Set button success sound
+Error
+Set button error sound
+Double tap time
+Set the double tap time window
+Loading
+First load
+Language
+Set language (requires restart)
+English
+Chinese simplified
+Chinese traditional
+French
+German
+Polish
+Portuguese
+Russian
+Spanish
+Swedish
+Custom
+UI alpha
+UI panel background transparency
+Notification
+Crew notification color
+Enable alarm
+Enable alarm sounds
+Importing enemy ships
+Import
+Import and apply colors from file
+Export
+Export applied colors to file
+Crew panel max
+The maximum number of crew panel rows to show
+OLD
+Task panel max
+The maximum number of task panel rows to show
+Component panel max
+The maximum number of component panel rows to show
+Reset controls
+Resets all key binds to default
+Pitch
+Pitch change description. Default 15.
+Notification panel max
+The maximum number of notification panel rows to show
+Autosave timer
+Minutes between autosave
+
+#	1000	Key bindings
+m1 unused
+Mouse 1
+m2 unused
+Mouse 2
+Drag camera
+Drag camera
+Confirm text
+Confirm text entry
+Confirm text 2
+Confirm text entry 2
+Select all/Save group
+Select all/save group button
+unused
+unused desc
+Control group 1
+Select control group 1
+Control group 2
+Select control group 2
+Control group 3
+Select control group 3
+Control group 4
+Select control group 4
+Control group 5
+Select control group 5
+Control group 6
+Select control group 6
+Control group 7
+Select control group 7
+Control group 8
+Select control group 8
+Control group 9
+Select control group 9
+Control group 10
+Select control group 10 
+Select/remove single
+Select/remove single structure/crew
+Stop shooting
+Stop selected weapons shooting
+Power off
+Power down selected structures
+Power on
+Power up selected structures
+Release control
+Release control of selected crew
+Take control
+Take control of selected crew
+Enable work
+Enable working on selected structure
+Disable/halt work
+Disable working on selected structure
+Pause
+Pause game
+Lock door/airlock
+Lock selected airlocks
+Unlock door/airlock
+Unlock selected airlocks
+Vent airlock
+Vent airlock to space
+Close airlock
+Stop venting from airlock
+Rotate CW
+Rotate structure clockwise
+Rotate CCW
+Rotate structure counter-clockwise
+Plan panel
+Toggle plan panel on/off
+Crew panel
+Toggle crew panel on/off
+Cargo panel
+Toggle cargo panel on/off
+Ship panel	
+Toggle ship panel on/off
+Color panel
+Toggle color panel on/off
+Remove
+Quick toggle remove while building
+Prioritize
+Quick toggle prioritize while building
+Toggle code red
+Toggle code red on/off
+Toggle autofire
+Toggle autofire on/off
+Assign console
+Assign crew to work this console
+Assign bed
+Assign crew to this bed
+Order sleep
+Order crew to sleep
+Order eat
+Order crew to eat
+Order drink
+Order crew drink
+Toggle code blue
+Toggle code blue on/off
+Warp jump
+Requires full charge and >0 evade
+Toggle code black
+Toggle code black on/off
+Roles panel
+Toggle roles panel on/off
+Toggle game speed
+Toggle game speed speed
+Center camera
+Center camera on ship
+Task panel
+Toggle task panel on/off
+Structure panel
+Toggle structure panel on/off
+Research panel
+Toggle research panel on/off
+Notification panel
+Toggle notification panel on/off
+Toggle UI
+Toggle UI on/off
+Zoom in
+Zoom camera in
+Zoom out
+Zoom camera out
+Quick save
+Save game to the quick save slot
+Quick load
+Save game to the quick load slot
+
+#	1200	TITLE
+Alpha 1.2e
+GAME OVER
+
+
+
+#	1400 Back up
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup

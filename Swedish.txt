@@ -1,0 +1,992 @@
+//
+// engelsk textfil
+//
+// // ignorera rad
+// # start av ny kategori
+//
+
+
+# 000 Tooltip-text och besättningsmeddelanden
+Fartygs last
+Lagringskapacitet
+Mat
+Besättningskrav
+Metall
+Krävs för nästan alla byggnader
+Vatten
+Besättningskrav
+Credits
+Totalt antal poäng
+Planpanelen
+Konstruera delar
+Besättningspanel
+Besöksöversikt. Mellanklick för att centrera på besättningsmedlem.
+Totala besättningen
+Kombinerad besättning totalt
+Kraft
+Krävs för strömkomponenter
+Energi
+Laddas genom att sova
+Uppladdad genom att äta
+Kräver
+kraft
+Guld
+Krävs för konstruktion av komplexa komponenter
+Kisel
+Krävs för konstruktion av enkla komponenter
+Laddad genom att dricka
+Krävs för att köra komponenter
+Hunger
+Törst
+krav
+enheter
+tillgängliga
+i användning
+Hållbarhet
+Erfarenhet
+Förtjänat genom att arbeta.
+lyft
+kyl-
+De övergivar!
+Handel
+framgångsrik
+misslyckad
+Fartyg som upptäckts på långdistansskannrar
+Asteroidfältet upptäcktes framåt
+Star upptäckt i förväg
+Målskytt är fientligt! Oanvänd
+System överhettning
+Överflödig last ventilerad
+Syre
+Krävs för rymdpromenader
+Fartyget är nu på en avskärningskurs
+Ser ut som ett handelsfartyg
+De driver sina vapen!
+Vi skannas
+De driver sina vapen
+De lämnar
+Ship exiting warp
+Fartyget har förändrats och kommer att avskilja oss
+Fartyget har inte upptäckt oss
+Hota
+Hotar målet
+Muta
+Muta målet att lämna
+De är för närvarande inte fientliga
+De försöker fly!
+Målskytten bryter sönder
+Vår muta var framgångsrik
+Muta misslyckades
+Vårt hot var framgångsrikt
+Vårt hot misslyckades
+Vi har ingen mat
+Vi har inget vatten
+Kan inte komma åt mat
+Kan inte komma åt vatten
+Inställning av ny kurs till asteroidfältet
+Inställning av ny kurs för att skicka signatur
+Ny kurs
+Sätt kursen till asteroidfältet
+Ny kurs
+Ange kurs för att skicka signatur
+Fartyg redan närvarande
+Vi är för nära det aktuella fältet
+Center kamera
+uppgifter
+Komponenter
+Aktivitetspanelen
+Granska köda uppgifter. Mittklick för att centrera på uppgiften.
+Komponentpanel
+Granska installerade drivna komponenter. Mittklick för att centrera på komponenten.
+Komponent Ström på
+Komponenten stängs av
+CPU-användning
+Strömförbrukning
+Växla ström
+Växla strömmen nedåt
+Forskning
+Forskning nya komponenter
+Forskningspunkter behövs
+Hårdkodade bindningar
+Nytt besättning
+nödvändig
+För alla planerade byggnader
+framsteg
+anmälningar
+Meddelanden som beställts av senast på topp
+Välj besättning
+Välj nytt besättning att sälja
+förstördes
+
+# 200 Skapa knappsatstext
+Avlägsna
+Avbryt planer eller ta bort struktur. Återbetalningar full kostnad om oskadad, annars återbetalar HP-procent.
+Skrov
+Konstruera skeppsbas - utsatta hörn läcker inte
+Golv
+Bygg på skrov för att skapa rum
+Säng
+Förbättrar hälsa
+Små Crate
+Lägg till lastkapacitet
+Medium Crate
+enheter
+Matdispenser
+Ger mat [DIRECTIONAL]
+Medium motor
+Kräver underhåll. Kan inte byggas på hörn. Öka undvik från
+Stor motor
+Kräver underhåll. Kan inte byggas på hörn. Öka undvik från
+XLarge motor
+Kräver underhåll. Kan inte byggas på hörn. Öka undvik från
+Stol
+Används för att äta och av operationspersonal. Kan gå över.
+Litet bord
+Bättre än att äta på golvet
+Medium bord
+Bättre än att äta på golvet
+Stort bord
+Bättre än att äta på golvet
+Dörr
+Kan låsas
+Airlock
+Krävs för spacewalking. Kan ventileras.
+prioritera
+Prioritera uppgiften
+Solpanel
+Genererar ström
+Sol
+Hull hörn
+Hull hörn ned
+Liten växtbädd
+Används för att odla 1 mat
+Medium växtbädd
+Används för att odla 2 mat
+Stor växtbädd
+Används för att odla 4 mat
+Liten reaktor
+Genererar ström. Kräver underhåll.
+Medium reaktor
+Genererar ström. Kräver underhåll.
+Stor reaktor
+Genererar ström. Kräver underhåll.
+Navigeringskonsol
+Arbetad av verksamheten. Ökar undvikande av intelligensförmåga. [RIKTNINGS]
+Sensorkonsol
+Arbetad av verksamheten. Ökar meddelandetid genom intelligensförmåga. [RIKTNINGS]
+Vapenkonsol
+Arbetade av militären. Ökar noggrannheten genom stridskunskap. [RIKTNINGS]
+Sköldkonsol
+Arbetade av militären. Ökar skärmens laddning med stridsfärdighet. [RIKTNINGS]
+Stor kista
+Lägg till lastkapacitet
+Liten motor
+Kräver underhåll. Kan inte byggas på hörn. Öka undvik från
+Sköldgenerator
+Laddar sköldcell.
+Livsuppehållande
+Pumpar syre
+Livstidsstöd
+Medium livsstöd minskat
+Stort livsstöd
+Stort livsstöd dämpas
+Lasertorn
+Basic energi vapen
+Sköldcell
+Bassköldkomponent. Kräver laddning.
+Torpedo launcher
+Långsamt skjutande kraftfullt explosivt vapen
+Raket pod
+Multi-shot explosivt vapen
+Plasma turret
+Snabbt skjutande energi vapen
+railgun
+Svårt träffande projektilvapen
+EMP-tornet
+Energi vapen effektivt mot sköldar
+chaingun
+Multi-shot projektil vapen
+Sköldbooster
+Laddar sköldcell
+Liten pansarplatta
+Ger pansarbuffert
+Medium pansarplatta
+Ger pansarbuffert
+Stor pansarplatta
+Ger pansarbuffert
+Armor reparatör
+Använder nanobot att ladda pansarbuffert
+Kaptenens stol
+Ger hastighet, moral och energi bonusar
+Warp kärna
+Dubblar hämtningshastighet för hämtningsenhet
+Mining laser
+Minor metall, kisel, guld och vatten. Området kan ökas med konsol eller extender.
+Golvmarkering
+Intern dekoration
+Kretskort
+Kretskortet faller ned
+Health pad
+Aktiverar besättningsmedicinering. Kan gå över när den inte används.
+Lastlucka
+Lägg till extern lastkapacitet
+Kommandon konsol
+Arbetad av verksamheten. Ökar meddelandetid genom intelligensförmåga. [RIKTNINGS]
+Värmekonsol
+Arbetad av verksamheten. Öka värmeventilvärdet genom intelligensförmåga. [RIKTNINGS]
+Komms array
+Kommunikationsmatrisen desc
+Liten värmeventil
+Sänker värmen
+Liten solpanel
+Genererar ström
+Medium solpanel
+Genererar ström
+CPU-array
+Ger CPU
+Vatten kylare
+Ger vatten
+Sensor array
+Tidigare hot upptäckt
+Skrovstöd
+Ökar strukturbufferten. Kan gå över.
+Armour konsol
+Arbetade av militären. Förbättrar rustningsladdning genom stridsfärdighet [DIRECTIONAL]
+Gräns ​​1
+Rensa konsolen
+Klar konsol desc
+Gruvförlängare
+Ökar gruvområdet
+Energi genomträngning
+Ökar skador på intilliggande energi vapen (inte diagonal)
+Projektil penetration
+Ökar skador på intilliggande projektilvapen (inte diagonal)
+Explosiv penetration
+Ökar skador på intilliggande explosiva vapen (inte diagonal)
+Energibeskydd S
+Energibeskydd S ned
+Projektilskydd S
+Projektilskydd S desc
+Explosivt skydd S
+Explosivt skydd S desc
+Vapenuppgradering
+Energiuppgradering
+Projektil uppgradering
+Explosiv uppgradering
+Gruvlängd
+Energibeskydd A
+Energibesparing En nedgång
+Projektilskydd A
+Projektilskydd A desc
+Explosivt skydd A
+Explosivt skydd En nedstigning
+Shield Amp
+Ökar skyddsuppladdning av intilliggande booster (ej diagonal)
+Armor Amp
+Ökar pansaruppladdning av intilliggande booster (ej diagonal)
+CPU-panel
+Ger CPU externt
+Skador på basskölden
+Skrov på grundskrov
+Skador på basbesättningen
+Omladdningstid
+Skrovmarkering
+Extern dekoration
+Forskningsstation
+Lås upp nya komponenter
+Dra ruta
+Konstruera
+Reparera
+Ta bort uppgiften
+Resurscheck
+Uppgiftens slutförande
+Framsteg i färdigställandet av uppgiften
+Ship core
+Alla komponenter måste anslutas till fartygets kärna genom skrov eller golv.
+Medium värmeventilation
+kapacitet
+ventilera
+Gruvkonsol
+Arbetade av militären. Ökar gruvområdet genom kampfärdighet. [RIKTNINGS]
+
+# 400 Menytext
+FRAKT
+Planen
+Avlägsna
+BESÄTTNING
+Tilldela sängen
+Tilldela sängar
+Teknik
+möbel
+Verktyg
+Besättning
+Döpa om
+Dörr
+dörrar
+Airlock
+luftslussar
+Låsa upp
+Låsa
+Döda (debug)
+Tydlig säng
+Tydliga sängar
+Återställ till standard
+Byt namn på besättningen
+Byt namn på besättningen desc
+Tilldela
+till
+Rörlighet
+Förbättrar rörelseshastigheten
+Teknik
+Förbättrar bygghastigheten, reparationshastigheten och motorns drift
+Uthållighet
+Förbättrar energi, hunger och hälsa
+Intelligens
+Förbättrar livsmedelsproduktion, forskning och icke-stridsoperation
+Hälsa
+Öka med vila, ätande eller medicinsk behandling. Ändrad genom uthållighet.
+Moral
+Förbättra genom att vila, äta eller möta. Ändrad genom intelligens.
+SPELARE
+Konstruera ingenjörskomponenter
+Konstruera möbler
+Konstruera funktionella komponenter
+Massa
+Storleksklassificering av fartyg som används i evad färdighet
+Spelarskepp
+Spelarens skipsnamn
+PLANEN
+Växla panel
+ALTERNATIV
+Ström på
+Strömkomponent
+Stäng av
+Inaktivera komponent
+Krävs för att fungera
+Sova
+Operationer
+Besättningsspecifika terminaler
+Äta
+Beställa
+dö
+äta
+sova
+Öppen
+Stänga
+vapen
+Vapen och vapen buffs
+Ventilera
+Ventilera syre till rymden
+Tätningsfartyg från att lufta till rymden
+Tilldela konsolen
+Tilldela konsolen till besättningen
+Tilldela sängen
+Tilldela säng till besättning
+Aktivera arbete
+Tillåt besättning att arbeta med denna struktur
+Inaktivera arbetet
+Förhindra att denna struktur bearbetas
+Manuell kontroll
+Ge specifika beställningar till denna besättningsmedlem
+Släpp kontrollen
+Besättningsmedlem kommer att hitta sitt eget öde
+tilldela
+Beställa
+Kontrollgrupp
+Sluta inriktning
+Förhindra vapen från att skjuta
+Skydda
+Nuvarande skärm och reparationsvärde
+Rustning
+Nuvarande rustning och reparationsvärde
+försvar
+Konstruera defensiva förmågor
+Strukturera
+Nuvarande struktur och reparationsvärde
+MÅL
+Målskipsbeteckning
+Målsköldsköld
+Mäta fartygets nuvarande skärm och reparationsvärde
+Target skeppspansar
+Mäta fartygets nuvarande rustning och reparationsvärde
+Målskipsstruktur
+Mäta fartygets nuvarande struktur och reparationsvärde
+Byt namn på markering
+Byt namn på markering
+KRAFT
+Warp hoppa
+Warp jump desc
+Träffpunkter
+Värme
+Värme- och kylkapacitet
+Mäta fartygets värme
+Mäta fartygets värme- och kylkapacitet
+CPU
+Dryck
+dryck
+strukturer
+Stänga
+Kaptenens order
+Dumpa 20% metall
+Dumpmetall till rymden
+Dumpa 20% kisel
+Dump kisel till rymden
+Dumpa 20% guld
+Dumpa guld till rymden
+Dumpa 20% vatten
+Dumpa vatten till rymden
+Dumpa 20% mat
+Doppa mat till rymden
+Bekämpa
+Förbättrar kamphandling
+Fartygsäkerhet
+Noggrannhet + 1d10 jämförs mot fiendens undvikande. 10 är alltid en träff.
+Ship evade
+[Max 5] Jämfört med fiendens noggrannhet + 1d10 för att undvika attack. Ökar chansen att undvika asteroidkollision.
+Mäta fartygs noggrannhet
+Noggrannhet + 1d10 jämförs mot spelare undvik. 10 är alltid en träff.
+Målskytt undviker
+[Max 5] Jämfört med spelarens noggrannhet + 1d10 för att undvika attack
+FÄRG
+Recolour ship
+accent
+Spjällåda
+Motor
+Motordrivning
+Armor plattor
+Reaktor
+enhetlig
+Tabell
+Växtbädden
+växter
+Smuts
+Svetsare
+Tablett
+headset
+Rymd kostym
+Space suit glas
+Eldsläckare
+Vattenburk
+Planbyggnad
+Bemanningshälsa
+Besättning energi
+Crew moral
+Besättning erfarenhet
+Struktur träffpunkter
+Vapenrepetition
+Bygg kakel
+Ta bort kakel
+Rengöring mopp
+Skyddsskyddsuppladdning
+Skyddsuppladdningsbeskrivning
+Target skärm laddning
+Beskrivning av målsköldschild
+Uppladdning av skeppspansar
+Laddningshanteringsbeskrivning
+Target pansar laddning
+Beskrivning av målvapenuppladdning
+Fientlig
+Neutral
+Vänlig
+Handel
+varje
+köpa
+Sälja
+för
+hp
+RELATION
+Förhållandestatus med mål
+HANDELSBJUDANDEN
+Handelserbjudanden med mål
+HANDELSBODA
+Köp från mål
+Sälja till mål
+Nav besättning färdighet
+Motoreffekt
+Massa
+Total
+Firing vapen
+Vapen besättning färdighet
+Motorns besättningskunskap
+Påverka varandra
+DETTA ÄR SLUT AV DENNA GRUPP
+
+
+
+
+# 600 Besättning, sängpanel
+Allmän
+Rengöring.
+Vetenskap
+Forskning och biologi
+Operationer
+Navigering, sensorer, värmehantering.
+Ingenjör
+Konstruktion och reparation.
+Militär
+Riktning och försvar.
+Kapten
+Command roll
+Tydlig säng
+Tydliga sängar
+spana
+Gruvarbetare
+Transporter
+Byt namn på fartyget
+Skapa ditt eget fartygsbeteckning
+FRÖKEN
+Återställa
+Återställ färgalternativ till aktuella färger
+Tillämpa
+Applicera nya färger för att skickas
+Spela
+Paus
+Röd
+Besättning fokuserar på kamproller och reparationer - manuella order krävs för att bygga nya strukturer.
+autofire
+Vapen kommer automatiskt att målsätta och skjuta på målskeppet
+Hoppa
+Utför varphopp. Kräver laddning och undviker> 0.
+Blå
+Alla besättningar ska återvända till skeppet
+Svart
+Överge skepp
+KODA
+sensorer
+Upptäck inkommande hot med ytterligare varning.
+Sensor besättning färdighet
+Snabbspola
+ROLLER
+Utpeka roller till besättning
+Airlock
+Lämnar fartyget
+Återkommer till frakt
+På väg mot
+Arbetssätt
+Rubrik till mat
+Hitta plats att äta
+Mat
+Rubrik till vatten
+Dricka
+Rubrik till hälsoråd
+healing
+Rubrik till sängs
+Sovande
+Rubrik till eld
+Slåss eld
+Rubrik till avfall
+Rengöring av avfall
+Rubrik till jobb
+konstruera
+Reparation
+Rubrik till kropp
+Hantera kroppen
+På tomgång
+Kaptenens stol
+navigering
+sensorer
+targeting
+Skärm kontroller
+Rustningskontroller
+kommunikation
+Värme kontroller
+Rubrik till beställning
+Väntar på beställning
+motorer
+växter
+Manuell kontroll
+Besättningen är under manuell kontroll
+Uppgift
+Bemanningsledarens tilldelade uppgift
+Ange kurs
+Asteroidfält
+Fartygsskylt
+Forskningskonsol
+Gruvkontroller
+
+# 800 Huvudmeny text
+Ny
+Ladda
+alternativ
+Sluta
+Spara
+Fortsätta
+Tom plats
+Escape Pod 02
+Start
+Standard
+Välj nytt besättning
+Besättning
+Återuppta
+Video
+Audio
+kontroller
+Gränssnitt
+Bemästra
+effekter
+Meny
+musik
+volym
+Mästarens volymbeskrivning
+Effektvolymen beskrivning
+Menyvolymbeskrivning
+Musikvolymen beskrivning
+Stereobalans
+-1 (full vänster) till 1 (helt till höger). Standard = 0.
+Rumslig blandning
+0 (2d) till 1 (3d). Standard = 1.
+Doppler nivå
+0 (ingen) till 5 (full). Standard = 0.
+Zoomkänslighet
+Kamerazoomkänslighet
+Zooma till markören
+Zooma till markören eller zooma till skärmcentret
+Zooma invertera
+Invertera mousewheel
+Aktivera verktygstips
+Aktivera i spelverktygstips
+Verktygstipsfördröjning
+Öka eller minska tiden innan verktygstips visas
+Dra känslighet
+Kamera dragkänslighet
+Skala UI
+Experimentell. Rapporteras för att orsaka FPS-problem. Standard 1.
+Färg förinställd
+Vänster klicka för att ställa in. Högerklicka för att rensa.
+windowed
+Aktivera fönsterfönster
+Fullskärm
+Aktivera fullskärmsvisning
+Max FPS
+Ställ in maximal FPS
+Ingen
+VSYNC
+Växla VSYNC
+Meny accent
+Ange menyns accentfärg
+Återställ menyinställningar
+Återställer alla menyinställningar till standard
+Ställ in till fullskärmsupplösning
+Max avstånd
+Distans spel ljud kan höras från källan. Standard 100.
+Knapphängare
+Ställ in knappen sväva / ange ljud
+Knappklick
+Ställ in knappklickljudet
+Framgång
+Ställ in knappsatsljud
+Fel
+Ställ in knappfelljudet
+Dubbeltrycktid
+Ställ in dubbeltryckstidsfönstret
+Läser in
+Första belastningen
+Språk
+Ange språk (kräver omstart)
+engelsk
+Förenklad kinesiska
+traditionell Kinesisk
+franska
+tysk
+putsa
+portugisiska
+ryska
+spansk
+svenska
+Beställnings
+UI alfa
+UI panel bakgrundsgranskning
+Underrättelse
+Crew notification color
+Aktivera larm
+Aktivera larmljud
+Importerar fiendens fartyg
+Importera
+Importera och tillämpa färger från filen
+Exportera
+Exportera tillämpade färger till filen
+Bemanningspanel max
+Det maximala antalet rader för besättningspanelen som ska visas
+GAMMAL
+Uppgiftspanel max
+Det maximala antalet rader för uppgiftspanelen som ska visas
+Komponentpanel max
+Det maximala antalet rader för komponentpanelen som ska visas
+Återställ kontroller
+Återställer alla nyckelbanden till standard
+Tonhöjd
+Pitch change description. Standard 15.
+Meddelandepanel max
+Det maximala antalet rader för anmälningspanelen som ska visas
+Autosave timer
+Protokoll mellan autosave
+
+
+
+# 1000 Nyckelbindningar
+M1 oanvänd
+Mus 1
+M2 oanvänd
+Mus 2
+Dra kamera
+Dra kamera
+Bekräfta text
+Bekräfta textinmatning
+Bekräfta text 2
+Bekräfta textinmatning 2
+Välj alla / Spara grupp
+Välj alla / spara gruppknapp
+oanvänd
+Oanvänd nedräkning
+Kontrollgrupp 1
+Välj kontrollgrupp 1
+Kontrollgrupp 2
+Välj kontrollgrupp 2
+Kontrollgrupp 3
+Välj kontrollgrupp 3
+Kontrollgrupp 4
+Välj kontrollgrupp 4
+Kontrollgrupp 5
+Välj kontrollgrupp 5
+Kontrollgrupp 6
+Välj kontrollgrupp 6
+Kontrollgrupp 7
+Välj kontrollgrupp 7
+Kontrollgrupp 8
+Välj kontrollgrupp 8
+Kontrollgrupp 9
+Välj kontrollgrupp 9
+Kontrollgrupp 10
+Välj kontrollgrupp 10
+Välj / ta bort singel
+Välj / ta bort enstaka struktur / besättning
+Sluta skjuta
+Stoppa valda vapenskytte
+Stäng av
+Slå av markerade strukturer
+Ström på
+Kör upp valda strukturer
+Släpp kontrollen
+Släpp kontrollen över vald besättning
+Ta kontroll
+Ta kontroll över vald besättning
+Aktivera arbete
+Aktivera arbetet med vald struktur
+Inaktivera / stoppa arbetet
+Inaktivera arbetet på vald struktur
+Paus
+Pausa spelet
+Lås dörr / airlock
+Lås valda airlocks
+Lås upp dörr / airlock
+Lås upp valda airlocks
+Ventilluftslås
+Ventilluftslås till rymden
+Stäng luftluckan
+Sluta ventilera från luftluckan
+Rotera CW
+Vrid strukturen medurs
+Rotera CCW
+Vrid strukturen moturs
+Planpanelen
+Växla planpanelen på / av
+Besättningspanel
+Växla besättningspanelen på / av
+Lastpanel
+Växla lastpanelen på / av
+Fartygsfartyg
+Växla skivpanelen på / av
+Färgpanel
+Växla färgpanelen på / av
+Avlägsna
+Snabb växling avlägsnas vid byggandet
+prioritera
+Snabbväxling prioriterar under byggandet
+Växla kod röd
+Växla koden röd på / av
+Växla autofire
+Växla autofire till / från
+Tilldela konsolen
+Tilldela besättningen att arbeta i denna konsol
+Tilldela sängen
+Tilldela besättningen till den här sängen
+Beställa sömn
+Beställ besättning för att sova
+Beställa äta
+Beställ besättning att äta
+Beställ dryck
+Beställ besättning dryck
+Byt kod blå
+Växla koden blå på / av
+Warp hoppa
+Kräver full laddning och> 0 undviker
+Byt kod svart
+Byt kod svart på / av
+Rollspel
+Växla rullpanelen till / från
+Växla spelhastighet
+Växla spelhastighet
+Center kamera
+Center kamera på fartyget
+Aktivitetspanelen
+Växla arbetspanelen på / av
+Strukturpanel
+Växla strukturpanelen till / från
+Forskningspanel
+Växla forskningspanelen på / av
+Anmälningspanel
+Växla anmälningspanelen på / av
+Växla användargränssnittet
+Växla användargränssnittet på / av
+Zooma in
+Zooma in kameran i
+Zooma ut
+Zooma ut kameran
+Snabbspara
+Spara spel till snabb spara platsen
+Snabb lastning
+Spara spel till snabblastplatsen
+
+# 1200 TITEL
+Alpha 1.2e
+Spel över
+
+
+
+# 1400 Back up
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
+Säkerhetskopiering
