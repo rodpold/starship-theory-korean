@@ -7,27 +7,27 @@
 
 
 #	000		Tooltip text and crew notifications
-Ship cargo
-Storage capacity
+선내 화물
+화물 수용량
 식량
-Crew requirement
+승무원이 사용합니다.
 금속
 Required for nearly all construction
 물
-Crew requirement
+승무원이 사용합니다.
 크레딧
 총 크레딧
-Plan panel
-Construct parts
-Crew panel
-Crew overview. Middle click to center on crewmember.
-Total Crew
+계획 패널
+우주선 건설 계획서입니다.
+승무원 패널
+승무원 전체 보기입니다. 가운데 클릭으로 해당 승무원의 화면 가운데로 이동합니다.
+총 승무원
 Combined crew total
 전력
 Required to power components
 에너지
-Recharged by sleeping
-Recharged by eating
+잠을 자면서 회복중 Recharged by sleeping
+먹으면서 회복 중 Recharged by eating
 Requires
 power
 Gold
@@ -51,11 +51,11 @@ They're surrendering!
 Trade
 successful
 unsuccessful
-Ship detected on long range scanners
-Asteroid field detected ahead
-Star detected ahead
-Target ship is hostile! Unused
-Systems overheating
+장거리 스캐너에 함선이 감지되었습니다
+전방에 소행성대가 발견되었습니다
+전방에 별이 감지되었습니다
+저 함선은 적대적입니다! Target ship is hostile! Unused
+시스템이 과열 되었습니다! 
 Excess cargo vented
 산소
 Required for spacewalks
@@ -121,9 +121,9 @@ was destroyed
 #	200		Build buttons text
 Remove
 Cancel plans or remove structure. Refunds full cost if undamaged, otherwise refunds HP percentage.
-선체 Hull
+[선체]
 선체의 표면을 건설합니다 - 구석 부분이 없다고 해서 구멍이 뚫리진 않습니다
-바닥 Floor
+[바닥]
 선체를 먼저 설치하고 그 위에 방을 만듭니다
 Bed
 Improves wellness
@@ -316,7 +316,7 @@ Remove
 CREW
 Assign bed
 Assign beds
-Engineering
+엔지니어링
 Furniture
 Utility
 Crew
@@ -337,7 +337,7 @@ Assign
 to
 Agility
 Improves movement speed
-Engineering
+엔지니어링
 Improves building speed, repair speed and engine operation
 Endurance
 Improves energy, hunger and health
@@ -348,14 +348,14 @@ Increase by resting, eating, or medical treatment. Modified by endurance.
 Morale
 Improve by resting, eating, or furniture. Modified by intelligence.
 PLAYER
-Construct engineering components
+엔지니어링 부품을 건설합니다.
 Construct furniture
 Construct functional components
 Mass
 Size rating of ship used in evade skill
 Player ship
 Player ship name
-PLAN
+계획
 Toggle panel
 OPTIONS
 Power on
@@ -395,14 +395,14 @@ Order
 Control group
 Stop targeting
 Prevent weapon from shooting
-Shield
-Current shield and repair value
-Armor
-Current armor and repair value
+보호막 Shield
+현재 보호막과 충전 상태입니다. Current shield and repair value
+장갑 Armor
+현재 방어 상태와 수리 상태입니다. Current armor and repair value
 Defences
 Construct defensive capabilities
-Structure
-Current structure and repair value
+구조 Structure
+선체 본체의 상태와 수리 상태입니다. Current structure and repair value
 TARGET
 Target ship designation
 Target ship shield
@@ -417,8 +417,8 @@ POWER
 Warp jump
 Warp jump desc
 hit points
-Heat
-Heat and cooling capacity
+과열 Heat
+과열 상태와 냉각 용량입니다. Heat and cooling capacity
 Target ship heat
 Target ship heat and cooling capacity
 CPU
@@ -439,10 +439,10 @@ Dump 20% food
 Dump food to space
 Combat
 Improves combat operation
-Ship accuracy
-Accuracy + 1d10 is compared against enemy evade. 10 is always a hit.
-Ship evade
-[Max 5] Compared against enemy accuracy + 1d10 to evade attack. Increases chance to avoid asteroid collision.
+명중률
+명중률 + 10면체와 적 회피율로 결정됩니다. 10이 나오면 반드시 명중입니다.
+회피율
+[최대 5] 적 배의 명중률 + 10면체와 함께 현재 배의 회피율로 결정합니다. 높아지면 소행성대의 충돌도 적어집니다.
 Target ship accuracy
 Accuracy + 1d10 is compared against player evade. 10 is always a hit.
 Target ship evade
@@ -521,7 +521,7 @@ Science
 Research and biology
 Operations
 Navigation, sensors, heat management.
-Engineer
+기술자
 Construction and repair.
 Military
 Targeting and defense.
