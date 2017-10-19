@@ -12,7 +12,7 @@
 식량
 승무원이 사용합니다.
 금속
-Required for nearly all construction
+대부분 건설에 필요한 재료입니다.
 물
 승무원이 사용합니다.
 크레딧
@@ -22,667 +22,667 @@ Required for nearly all construction
 승무원 패널
 승무원 전체 보기입니다. 가운데 클릭으로 해당 승무원의 화면 가운데로 이동합니다.
 총 승무원
-Combined crew total
+천체 승무원 합계입니다.
 전력
-Required to power components
+전력을 소비하는 부품에 사용됩니다.
 에너지
-잠을 자면서 회복중 Recharged by sleeping
-먹으면서 회복 중 Recharged by eating
-Requires
-power
-Gold
-Required for construction of complex components
-Silicon
-Required for construction of simple components
-Recharged by drinking
-Required to run components
+잠을 자면 회복됩니다. 
+먹으면 회복됩니다. 
+요구됨 
+전력 
+금
+고급 모듈에 사용되는 재료입니다.
+실리콘
+간단한 모듈에 사용되는 재료입니다.
+마시면 회복됩니다. 
+모듈을 작동 시키는데 필요합니다. 
 배고픔
 목마름
-요구사항
-units
-available
-사용중
-내구도
-경험치
-Gained by working.
-boost
-cooling
-They're surrendering!
-Trade
-successful
-unsuccessful
-장거리 스캐너에 함선이 감지되었습니다
-전방에 소행성대가 발견되었습니다
-전방에 별이 감지되었습니다
+사용량
+유닛 
+사용 가능 
+사용중 
+내구도 
+경험치 
+작업을 통해 얻습니다. 
+강화 
+냉각 
+저들이 항복합니다! 
+거래 
+성공적 successful 
+성공적이지 못함 unsuccessful 
+장거리 스캐너에 함선이 감지되었습니다. 
+전방에 소행성대가 발견되었습니다. 
+전방에 별이 감지되었습니다. 
 저 함선은 적대적입니다! Target ship is hostile! Unused
 시스템이 과열 되었습니다! 
-Excess cargo vented
+화물 용량이 한계에 다다랐습니다.  
 산소
-Required for spacewalks
-Ship is now on an intercept course
-Looks like a trade ship
-They're powering up their weapons!
-We are being scanned
-They're powering up their weapons
-They're leaving
-Ship exiting warp
-Ship has changed course and will intercept us
-The ship has not detected us
-Threaten
-Threaten the target
-Bribe
-Bribe the target into leaving
-They're not currently hostile
-They're trying to escape!
-The target ship is breaking apart
-Our bribe was successful
-Bribe failed
-Our threat was successful
-Our threat failed
-We have no food
-We have no water
-Can't access food
-Can't access water
-Setting new course to asteroid field
-Setting new course to ship signature
-New course
-Set course to asteroid field
-New course
-Set course to ship signature
-Ship already present
-We're too close to current field
-Center camera
-Tasks
-Components
-Task panel
-Review queued tasks. Middle click to center on task.
-Component panel
-Review installed powered components. Middle click to center on component.
-Component power on
-Component power off
-CPU usage
-Power usage
-Toggle power
-Toggle power desc
-Research
-Research new components
-research points needed
+우주 유영이 필요합니다. 
+우주선이 장애물이 있는 경로로 진입했습니다. 
+우주 상선처럼 보입니다.
+저들이 무기를 활성화 하고 있습니다! 
+탐사를 마쳤습니다. We are being scanned
+저들이 무기를 활성화 하고 있습니다. 
+저들이 떠납니다.
+우주선이 워프존에서 튀어나왔습니다. 
+우주선이 경로를 바꿔 우릴 가로막았습니다. 
+우주선이 아직 우리를 발견하지 못했습니다. 
+위협 
+상대를 위협하기 
+뇌물 
+상대에게 뇌물을 주어서 떠나게 하기 
+저들은 아직 적대적이진 않군요 
+저들이 도망치려 하고 있습니다! 
+상대 우주선이 산산조각났습니다. 
+상대에게 뇌물을 주자 저들이 떠날 채비를 합니다. 
+뇌물 실패 
+상대에게 크레딧을 내놓으라고 위협하자 겁에 질린 그들이 승낙합니다.  
+상대에게 크레딧을 내놓으라고 위협했지만 상황이 더 안 좋게 돌아갑니다. 
+더이상 가진 음식이 없습니다! 
+더이상 가진 물이 없습니다! 
+음식을 먹을 수가 없습니다. 
+물을 마실 수가 없습니다. 
+소행성대로 항로를 변경합니다. 
+우주선 신호를 향해 항로를 변경합니다. 
+새 항로 
+소행성대로 항로를 설정하기 Set course to asteroid field
+새 항로 
+우주선 신호를 향해 항로를 설정하기 Set course to ship signature
+우주선이 이미 있습니다. Ship already present
+현재 필드에서 너무 가깝습니다. We're too close to current field
+중앙 카메라 Center camera
+업무 
+모듈 
+업무 패널 
+예정된 업무를 확인합니다. 중간 클릭을 하면 해당 업무로 이동합니다. 
+모듈 패널 
+설치된 모듈과 전력 소비량을 확인합니다. 중간 클릭을 하면 해당 모듈로 이동합니다. 
+모듈 전원 켜기 
+모듈 전원 끄기 
+CPU 사용량 
+전력 소비량 
+전원 스위치 
+전원 스위치 상태 
+연구 
+새 모듈 연구 
+연구 포인트가 필요합니다. 
 Hardcoded bindings
-New crew
-required
-for all planned construction
-progress
-Notifications
-Notifications ordered by most recent at top
-Select crew
-Select new crew to sell
-was destroyed
+새로운 승무원 
+필요량 
+- 계획된 업무에 필요한 총 자원량입니다.  
+진척도  
+알림 
+가장 최근 알림사항이 맨 위로 올라옵니다. 
+승무원 선택 
+승무원을 팔기 위해 선택합니다. Select new crew to sell
+(이)가 파괴되었습니다. 
 
 #	200		Build buttons text
-Remove
-Cancel plans or remove structure. Refunds full cost if undamaged, otherwise refunds HP percentage.
-[선체]
-선체의 표면을 건설합니다 - 구석 부분이 없다고 해서 구멍이 뚫리진 않습니다
-[바닥]
-선체를 먼저 설치하고 그 위에 방을 만듭니다
-Bed
-Improves wellness
-Small Crate
-Add cargo capacity
-Medium Crate
-units
-Food dispenser
-Provides food [DIRECTIONAL]
-Medium engine
-Requires maintenance. Cannot be built on corners. Increase evade by 
-Large engine
-Requires maintenance. Cannot be built on corners. Increase evade by 
-XLarge engine
-Requires maintenance. Cannot be built on corners. Increase evade by 
-Chair
-Used for eating and by operations crew. Can be walked over.
-Small table
-Better than eating on the floor
-Medium table
-Better than eating on the floor
-Large table
-Better than eating on the floor
-Door
-Can be locked. Not airtight.
-Airlock
-Required for spacewalking. Can be vented.
-Prioritize
-Prioritize task
-Solar panel
-Generates power
-Solar
-Hull corner
-Hull corner desc
-Small plant bed
-Used to grow 1 food
-Medium plant bed
-Used to grow 2 food
-Large plant bed
-Used to grow 4 food
-Small reactor
-Generates power. Requires maintenance.
-Medium reactor
-Generates power. Requires maintenance.
-Large reactor
-Generates power. Requires maintenance.
-Navigation console
-Worked by operations. Increases evade by intelligence skill. Can be used to head towards asteroid/ship. [DIRECTIONAL]
-Sensor console
-Worked by operations. Increases notification time by intelligence skill. [DIRECTIONAL]
-Weapons console
-Worked by military. Increases accuracy by combat skill. [DIRECTIONAL]
-Shield console
-Worked by military. Increases shield recharge by combat skill. [DIRECTIONAL]
-Large crate
-Add cargo capacity
-Small engine
-Requires maintenance. Cannot be built on corners. Increase evade by 
-Shield generator
-Recharges shield cell.
-Life support
-Pumps oxygen
-Medium life support
-Medium life support desc
-Large life support
-Large life support desc
-Laser turret
-Basic energy weapon
-Shield cell
-Base shield component. Requires charging.
-Torpedo launcher
-Slow firing powerful explosive weapon
-Rocket pod
-Multi shot explosive weapon
-Plasma turret
-Fast firing energy weapon
-Railgun
-Hard hitting projectile weapon
-EMP turret
-Energy weapon effective against shields
-Chaingun
-Multi shot projectile weapon
-Shield booster
-Recharges shield cell
-Small armor plate
-Provides armor buffer
-Medium armor plate
-Provides armor buffer
-Large armor plate
-Provides armor buffer
-Armor repairer
-Uses nanobots to recharge armor buffer
-Captains chair
-Provides speed, morale and energy bonuses
-Warp core
-Doubles jump drive recharge speed
-Mining laser
-Mines metal, silicon, gold and water. Range can be increased with console or extender.
-Floor marking
-Internal decoration
-Circuit printer
-Circuit printer desc
-Health pad
-Enables crew healing. Can walk over when not in use.
-Cargo hatch
-Add external cargo capacity
-Comms console
-Worked by operations. Increases notification time by intelligence skill. [DIRECTIONAL]
-Heat console
-Worked by operations. Increase heat vent amount by intelligence skill. [DIRECTIONAL]
-Comms array
-Communications array desc
-Small heat vent
-Lowers heat
-Small solar panel
-Generates power
-Medium solar panel
-Generates power
-CPU array
-Provides CPU
-Water cooler
-Provides water
-Sensor array
-Earlier threat detection
-Hull brace
-Increases structure buffer. Can be walked over.
-Armor console
-Worked by military. Improves armor recharge by combat skill [DIRECTIONAL]
-Limit 1
-Clear console
-Clear console desc
-Mining extender
-Increases mining range
-Energy penetration
-Increases damage of adjacent energy weapons (not diagonal)
-Projectile penetration
-Increases damage of adjacent projectile weapons (not diagonal)
-Explosive penetration
-Increases damage of adjacent explosive weapons (not diagonal)
-Energy protection S
-Energy protection S desc
-Projectile protection S
-Projectile protection S desc
-Explosive protection S
-Explosive protection S desc
-Weapon upgrade
-Energy upgrade
-Projectile upgrade
-Explosive upgrade
-Mining length
-Energy protection A
-Energy protection A desc
-Projectile protection A
-Projectile protection A desc
-Explosive protection A
-Explosive protection A desc
-Shield Amp
-Increases shield recharge of adjacent booster (not diagonal)
-Armor Amp
-Increases armor recharge of adjacent booster (not diagonal)
-CPU panel
-Provides CPU externally
-Base shield damage
-Base hull damage
-Base crew damage
-Reload time
-Hull marking
-External decoration
-Research station
-Unlock new components
-Drag box
-Construct
-Repair
-Remove task
-Resource check
-Task completion
-Progress of task completion
-Ship core
-All components must be connected to the ship core by hull or floor.
-Medium heat vent
-capacity
-vent
-Mining console
-Worked by military. Increases mining range by combat skill. [DIRECTIONAL]
+제거/취소 
+계획을 취소하거나 구조물을 제거합니다. 만약 손상되지 않았다면 자원을 모두 돌려받습니다. 그렇지 않다면 HP에 비례해서 돌려받습니다. 
+선체 
+선체의 표면을 건설합니다 - 구석 부분이 없다고 해서 구멍이 뚫리진 않습니다. 
+바닥 
+선체를 먼저 설치하고 그 위에 방을 만듭니다. 
+침대 
+안락함이 증가합니다. 사기에 영향을 미칩니다. 
+소형 창고 
+화물 용량을 추가해줍니다. 
+중형 창고 
+유닛 
+음식 제공기 
+식사를 제공합니다[방향이 있음] 
+중형 엔진 
+유지 보수가 필요합니다. 구석제 설치할 수 없습니다. 회피율을 다음만큼 높여줍니다: 
+대형 엔진 
+유지 보수가 필요합니다. 구석제 설치할 수 없습니다. 회피율을 다음만큼 높여줍니다: 
+거대한 엔진  
+유지 보수가 필요합니다. 구석제 설치할 수 없습니다. 회피율을 다음만큼 높여줍니다: 
+의자 
+식사할 때 사용되기도 하며 오퍼레이터도 사용합니다. 걷는데 방해되지 않습니다. Used for eating and by operations crew. Can be walked over.
+소형 탁자 
+바닥에서 먹는 것 보단 낫습니다. 
+중형 탁자 
+바닥에서 먹는 것 보단 낫습니다. 
+대형 탁자 
+바닥에서 먹는 것 보단 낫습니다. 
+문 
+잠글 수 있습니다. 공기를 차단하진 않습니다. 
+에어락 
+우주로 나가기 위해 필요합니다. 공기를 빼낼 수 있습니다. 
+우선 작업 
+일을 먼저 하도록 하게합니다. 
+태양광 패널 
+전기를 생성합니다. 
+태양광 Solar
+선체 구석 
+선체 구석 상세 
+소형 밭 
+1 식량을 생성합니다. 
+중형 밭 
+2 식량을 생성합니다. 
+대형 밭 
+4 식량을 생성합니다. 
+소형 원자로 
+전기를 생성합니다. 유지 보수가 필요합니다. 
+중형 원자로 
+전기를 생성합니다. 유지 보수가 필요합니다. 
+대형 원자로 
+전기를 생성합니다. 유지 보수가 필요합니다. 
+항해 콘솔 
+오퍼레이터가 있어야 동작합니다. 지능 기술에 비례해서 회피율이 증가합니다. 소행성/함선을 바라보고 설치해야 합니다. [방향이 있음] 
+센서 콘솔 
+오퍼레이터가 있어야 동작합니다. 지능 기술에 비례해서 발견하는 시간이 빨라집니다. 
+무기 콘솔 
+군인이 있어야 동작합니다. 전투 기술에 따라 명중률이 증가합니다. 
+방어막 콘솔 
+군인이 있어야 동작합니다. 전투 기술에 따라 방어막 재생 시간이 향상됩니다. 
+대형 창고 
+화물 수용량을 증가시킵니다. 
+소형 엔진 
+유지 보수가 필요합니다. 구석에 설치할 수 없습니다. 회피율을 다음만큼 높여줍니다: 
+보호막 생성기 Shield generator
+보호막을 충전시켜줍니다. Recharges shield cell.
+생명 유지장치 
+산소를 생성합니다. 
+중형 생명 유지장치 
+중형 생명 유지장치 상세 
+대형 생명 유지장치 
+대형 생명 유지장치 상세 
+레이저 터렛 
+기본적인 에너지 무기입니다. 
+보호막 셀 
+기본적인 보호막 부품입니다. 충전이 필요합니다. 
+어뢰 발사기 
+느리지만 강력하게 폭발하는 무기입니다. 
+로켓 포드 
+다중 폭발성 무기입니다. 
+플라즈마 터렛 
+고속으로 발사되는 에너지 무기입니다. 
+레일 건 
+강한 충격을 주는 투사체 무기입니다. 
+EMP 터렛 
+보호막에 효과적인 에너지 무기입니다. 
+체인건 
+다중으로 발사되는 투사체 무기입니다. 
+보호막 부스터 
+보호막 셀을 충전해줍니다. 
+소형 강판 
+선체 장갑을 튼튼히 하게 해줍니다. 
+중형 강판 
+선체 장갑을 튼튼히 하게 해줍니다. 
+대형 강판 
+선체 장갑을 튼튼히 하게 해줍니다. 
+장갑 수리장치 
+장갑을 수리하는 나노봇을 동작시킵니다. 
+함장 의자 
+이동 속도, 사기, 에너지 보너스를 제공해줍니다. 
+워프 코어 
+워프 준비 시간을 두배 향상시킵니다. 
+광물 추출 광선 
+금속, 실리콘, 금, 물을 채굴합니다. 콘솔이나 확장기를 통해 사거리를 늘릴 수 있습니다. 
+바닥 표시기 
+내부 장식용 
+서킷 프린터 
+서킷 프린터 상세 
+치료 패드 
+승무원 치료를 활성화 합니다. 사용중이지 않을 때는 패드 위를 걸어다닐 수 있습니다. 
+화물 해치 
+화물 수용량을 추가로 늘려줍니다. 
+통신 콘솔 
+오퍼레이터가 있어야 동작합니다. 지능 기술에 따라서 알림 속도가 빨라집니다. [방향이 있음] 
+열 관리 콘솔 
+오퍼레이터가 있어야 동작합니다. 지능 기술에 따라서 열 배출 속도가 향상됩니다. [방향이 있음] 
+통신 집합체 
+통신 집합체 상세 
+소형 열 배출구 
+열을 낮춰줍니다. 
+소형 태양광 패널 
+전력을 생성합니다. 
+중형 태양광 패널  
+전력을 생성합니다. 
+CPU 집합체 
+CPU 를 제공합니다. 
+물 제공기 
+물을 제공합니다. 
+센서 집합체 
+위협을 빨리 감지합니다 Earlier threat detection 
+선체 버팀대 Hull brace
+구조물을 연결합니다. 걸어다닐 수 있습니다. Increases structure buffer. Can be walked over.
+장갑 콘솔 
+군인이 있어야 동작합니다. 전투 기술에 따라서 장갑이 향상됩니다. [방향이 있음] Worked by military. Improves armor recharge by combat skill [DIRECTIONAL]
+최대 건설 가능: 1 
+콘솔 초기화 
+콘솔 초기화 상세 
+채굴 확장기 
+채광 범위를 넓혀줍니다. 
+에너지 관통장치 
+가까운 에너지 무기의 피해량을 증가시켜 줍니다. (방향성 없음) 
+투사제 관통장치 
+가까운 투사체 무기의 피해량을 증가시켜 줍니다. (방향성 없음) 
+폭발물 관통장치 
+가까운 폭발형 무기의 피해량을 증가시켜 줍니다. (방향성 없음) 
+에너지 보호 S 
+에너지 보호 S 상세 
+투사체 보호 S 
+투사체 보호 S 상세 
+폭발물 보호 S 
+폭발물 보호 S 상세 
+무기 업그레이드 
+에너지 무기 업그레이드 
+투사체 업그레이드 
+폭발물 업그레이드 
+채굴 사거리 
+에너지 보호 A 
+에너지 보호 A 상세 
+투사체 보호 A 
+투사체 보호 A 상세 
+폭발물 보호 A 
+폭발물 보호 A 상세 
+방어막 증폭기 
+근처 보호막 부스터의 보호막 충전량을 향상시킵니다. (방향성 없음) 
+장갑 증폭기 
+근처 부스터의 방어력 재생량을 향상시킵니다. 
+CPU 패널 
+추가적으로 CPU를 제공합니다. 
+기본 보호막 피해 
+기본 선체 피해 
+기본 승무원 피해 
+재장전 시간 
+선체 표시기 
+외부 장식용 
+연구소 
+새 모듈을 사용가능하게 해줍니다. 
+드래그 박스 Drag box
+건설 계획: 
+수리중 
+업무 제거 
+자원 확인 
+업무 진척도 
+업무 진행사항 
+우주선 코어 Ship core
+모든 모듈은 선체 혹은 바닥에 우주선 코어에 접속되어있어야 합니다. All components must be connected to the ship core by hull or floor.
+중형 열 배출구 
+열 용량 
+냉각 
+채광 콘솔 
+군인이 있어야 동작합니다. 전투 기술에 따라 채광 사거리가 늘어납니다. 
 
 #	400		Menu text
-CARGO
-Plan
-Remove
-CREW
-Assign bed
-Assign beds
-엔지니어링
-Furniture
-Utility
-Crew
-Rename
-Door
+화물 
+계획 
+제거/취소 
+승무원 
+침대 설정 Assign bed
+침대 설정하기 Assign beds
+엔지니어링 
+가구 
+도구 
+승무원 
+이름 변경 
+문 Door
 Doors
-Airlock
-Airlocks
-Unlock
-Lock
-Kill (debug)
-Clear bed
-Clear beds
-Reset to default
-Rename crew
-Rename crew desc
-Assign 
+에어락 
+에어락 Airlocks
+열기 
+잠그기 
+죽이기 (debug) Kill (debug)
+침대 설정 초기화 
+설정한 침대 초기화 
+기본값으로 돌리기 
+승무원 이름 변경 
+승무원 이름 상세 
+할당 Assign 
 to
-Agility
-Improves movement speed
+민첩성 
+이동 속도가 향상됩니다. 
 엔지니어링
-Improves building speed, repair speed and engine operation
-Endurance
-Improves energy, hunger and health
-Intelligence
-Improves food production, research and non combat operation
-Health
-Increase by resting, eating, or medical treatment. Modified by endurance.
-Morale
-Improve by resting, eating, or furniture. Modified by intelligence.
-PLAYER
-엔지니어링 부품을 건설합니다.
-Construct furniture
-Construct functional components
-Mass
-Size rating of ship used in evade skill
-Player ship
-Player ship name
+건설 속도, 수리 속도, 엔진 관리가 향상됩니다. 
+끈기 
+에너지 무기를 잘 다루고 배고픔이 천천이 떨어지며 체력이 증가합니다. 
+지능 
+음식 생성, 연구 속도, 전투가 아닌 조작에 관여합니다. 
+체력 
+휴식, 식사, 치료에 따라 올라갑니다. 끈기에 영향을 받습니다. 
+사기 
+휴식, 식사, 가구에 따라 올라갑니다. 지능에 영향을 받습니다. 
+플레이어 
+엔지니어링 모듈 
+가구 건설 
+기능적인 모듈 
+우주선 크기 
+크기에 따라 우주선의 회피 기술이 결정됩니다. 
+플레이어 우주선 
+우주선 이름 
 계획
-Toggle panel
-OPTIONS
-Power on
-Power component
-Power off
-Disable component
-required to operate
-Sleep
-Operations
-Crew operated terminals
-Eat
-Order
-die
-eat
-sleep
-Open
-Close
-Weapons
-Weapons and weapon buffs
-Vent
-Vent oxygen to space
-Seal ship from venting to space
-Assign console
-Assign console to crew
-Assign bed
-Assign bed to crew
-Enable work
-Allow crew to work on this structure
-Disable work
-Prevent this structure from being worked
-Manual control
-Give specific orders to this crew member
-Release control
-Crew member will find their own destiny
-Reassign
-Order
-Control group
-Stop targeting
-Prevent weapon from shooting
-보호막 Shield
-현재 보호막과 충전 상태입니다. Current shield and repair value
-장갑 Armor
-현재 방어 상태와 수리 상태입니다. Current armor and repair value
-Defences
-Construct defensive capabilities
-구조 Structure
-선체 본체의 상태와 수리 상태입니다. Current structure and repair value
-TARGET
-Target ship designation
-Target ship shield
-Target ship current shield and repair value
-Target ship armor
-Target ship current armor and repair value
-Target ship structure
-Target ship current structure and repair value
-Rename marking
-Rename marking
-POWER
-Warp jump
-Warp jump desc
-hit points
-과열 Heat
-과열 상태와 냉각 용량입니다. Heat and cooling capacity
-Target ship heat
-Target ship heat and cooling capacity
+패널 스위치 
+설정 OPTIONS
+전원 켜기 
+전원 모듈 
+전원 끄기 
+모듈 비활성화 
+조작이 필요합니다. required to operate
+잠자기 
+조작 
+승무원이 조작할 수 있는 터미널들  
+먹기 
+승무원에게 다음 명령 
+죽음 die
+먹기 
+잠자기 
+열기 Open
+닫기 Close
+무기 
+무기 및 무기 성능 향상에 관련된 모듈 
+열기 
+우주로 산소를 빼내기 
+에어락을 닫아 공기를 우주와 차단되도록 하기 
+콘솔 할당 
+승무원을 콘솔에 할당합니다. 
+침대 할당 
+승무원을 침대에 할당합니다. 
+작업 활성화 
+승무원을 이 구조물에서 작업을 할 수 있도록 허용합니다. 
+작업 비활성화 
+승무원이 이 구조물에서 작업하지 못하게 합니다. 
+수동 조작 
+이 승무원을 별도로 조작하게 합니다. 
+조작 해제 
+이 승무원은 자기 할일을 스스로 하게 됩니다. 
+직업 재할당 
+명령하기 
+부대 지정 
+목표 설정 중지 Stop targeting
+사격하지 않도록 무기를 설정합니다. Prevent weapon from shooting
+보호막 
+현재 보호막과 충전 상태입니다. 
+장갑 
+현재 장갑 상태와 회복 상태입니다. 
+방어구 
+방어와 관련된 모듈 
+선체 
+선체 본체의 상태와 수리 상태입니다. 
+상대 우주선 
+상대 우주선 정보 
+상대 우주선 보호막 
+상대 우주선의 보호막 및 충전 상태입니다. 
+상대 우주선 장갑 
+상대 우주선 장갑 및 재생 상태입니다. 
+상대 우주선 선체 
+상대 우주선 선체 및 수리 상태입니다. 
+표적 이름 변경 Rename marking
+표적 이름 변경 Rename marking
+전원 POWER
+워프 점프 
+워프 점프 상세 
+체력 
+과열 
+과열 상태와 냉각 용량입니다. 
+상대 우주선의 열 상태
+상대 우주선의 열 및 냉각량입니다. 
 CPU
-Drink
-drink
-Structures
-Close
-Captain's orders
-Dump 20% metal
-Dump metal to space
-Dump 20% silicon
-Dump silicon to space
-Dump 20% gold
-Dump gold to space
-Dump 20% water
-Dump water to space
-Dump 20% food
-Dump food to space
-Combat
-Improves combat operation
+마시기 
+마시기 drink
+구조 Structures
+닫기 Close
+함장의 명령 Captain's orders
+20%의 금속을 버리기 
+금속을 우주에 버립니다. 
+20%의 실리콘을 버리기 
+실리콘을 우주에 버립니다. 
+20%의 금을 버리기 
+금을 우주에 버립니다. 
+20%의 물을 버리기 
+물을 우주에 버립니다. 
+20%의 식량을 버리기 
+식량을 우주에 버립니다. 
+전투 
+전투에 관련된 능률이 향상됩니다. 
 명중률
 명중률 + 10면체와 적 회피율로 결정됩니다. 10이 나오면 반드시 명중입니다.
 회피율
 [최대 5] 적 배의 명중률 + 10면체와 함께 현재 배의 회피율로 결정합니다. 높아지면 소행성대의 충돌도 적어집니다.
-Target ship accuracy
-Accuracy + 1d10 is compared against player evade. 10 is always a hit.
-Target ship evade
-[Max 5] Compared against player accuracy + 1d10 to evade attack
+상대 우주선 명중률 
+명중률 + 10면체 주사위로 플레이어 회피율을 비교합니다. 10이 나오면 무조건 명중입니다. 
+상대 우주선 회피율 
+[최대 5] 플레이어의 명중률 + 10면체 주사위로 공격을 피할것을 계산합니다. 
 COLOR
-Recolour ship
-accent
-Crate
-Engine
-Engine thrust
-Armor plates
-Reactor
-uniform
-Table
-Plant bed
-Plants
-Dirt
-Welder
-Tablet
-Headset
-Space suit
-Space suit glass
-Extinguisher
-Water can
-Plan building
-Crew health
-Crew energy
-Crew morale
-Crew experience
-Structure hit points
+우주선 색상 변경 Recolour ship
+강조 
+상자 Crate
+엔진 
+엔진 출력 Engine thrust
+장갑판 
+원자로 
+유니폼 
+탁자 
+밭 
+식물 
+흙 
+용접기 
+태블릿 
+헤드셋 
+우주복 Space suit
+우주복 글라스 Space suit glass
+소화기 
+물통 
+건설 계획 
+승무원 건강 상태 
+승무원 에너지 
+승무원 사기 
+승무원 경험치 
+구조물 체력 
 Weapon repeat
-Build tile
-Remove tile
+타일 건설 
+타일 제거 
 Cleaning mop
-Ship shield recharge
-Ship shield recharge description
-Target shield recharge
-Target shield recharge description
-Ship armor recharge
-Ship armor recharge description
-Target armor recharge
-Target armor recharge description
-Hostile
-Neutral
-Friendly
-Trade
-each
-Buy
-Sell
-for
-credits
-RELATIONSHIP
-Relationship status with target
-TRADE OFFERS
-Trade offers with target
-TRADE OFFER
-Buy from target
-Sell to target
-Nav crew skill
-Engine power
-Mass
-Total
-Firing weapons
-Weapon crew skill
-Engine crew skill
-Interact
+우주선 방어막 충전 속도 
+우주선 방어막 충전 속도 자세히 보기 
+상대 방어막 충전 속도 
+상대 방어막 충전 속도 자세히 보기 
+우주선 장갑 회복 속도 
+우주선 장갑 회복 속도 자세히 보기 
+상대 장갑 회복 속도 
+상대 장갑 회복 속도 자세히 보기 
+적대적 
+중립적 
+우호적 
+거래 
+(개별가격)
+구매 
+판매 
+유닛. 총 
+크레딧 
+관계 
+상대와의 관계 
+거래 제안 TRADE OFFERS
+상대에게 거래 제안하기 
+거래하기 
+상대의 물건 구매 
+상대에게 물건 판매 
+승무원 항해 기술 
+엔진 파워 
+우주선 크기 
+총 
+발사 무기 
+승무원 무기 기술 보너스 
+승무원 엔진 기술 보너스 
+상호작용 Interact
 THIS IS THE END OF THIS GROUP
 
 
 
 
 #	600		Crew, beds panel
-General
-Cleaning.
-Science
-Research and biology
-Operations
-Navigation, sensors, heat management.
+일반 
+청소를 합니다. 
+과학자 
+재배, 연구를 합니다. 
+오퍼레이터 
+항해, 센서, 열 관리등의 기계 조작을 담당합니다. 
 기술자
-Construction and repair.
-Military
-Targeting and defense.
-Captain
-Command role
-Clear bed
-Clear beds
-Scout
-Miner
-Transporter
-Rename ship
-Create your own ship designation
-MISS
-Reset
-Reset color options to currently applied colors
-Apply
-Apply new colors to ship
-Play
-Pause
-Red
-Crew focus on combat roles and repairs - manual orders required to build new structures.
-Autofire
-Weapons will auto target and fire on target ship
-Jump
-Execute warp jump. Requires charge and evade > 0.
-Blue
-All crew to return to ship
-Black
-Abandon ship
-CODE
-Sensors
-Detect incoming threats with additional warning.
-Sensor crew skill
-Fast forward
-ROLES
-Designate roles to crew
-Airlock
-Leaving ship
-Returning to ship
-Heading to
-Working
-Heading to food
-Finding place to eat
-Eating
-Heading to water
-Drinking
-Heading to health pad
-Healing
-Heading to bed
-Sleeping
-Heading to fire
-Fighting fire
-Heading to waste
-Cleaning waste
-Heading to job
-Constructing
-Repairing
-Heading to body
-Dealing with body
-Idle
-Captain's chair
-navigation
-sensors
-targeting
-shield controls
-armor controls
-communications
-heat controls
-Heading to order
-Waiting for order
-engines
-plants
-Manual control
-Crew is under manual control
-Task
-Crew member's allocated task
-Set course
-Asteroid field
-Ship signature
-research console
-mining controls
+건설 및 수리를 합니다. 
+군인 
+목표를 정하는 일과 방어하는 일을 합니다.
+함장 
+명령을 내립니다.
+침대 재설정 Clear bed
+침대 재설정하기 Clear beds
+정찰 Scout
+광부 Miner
+수송 차량 Transporter
+우주선 이름 변경 
+자신만의 우주선 이름을 지정하여 보세요. 
+빗나감 
+초기화 Reset
+적용된 색상 설정을 초기화합니다. Reset color options to currently applied colors
+적용 Apply
+우주선에 새로운 색상을 적용합니다. Apply new colors to ship
+시작 Play
+멈춤 Pause
+레드 
+승무원이 전투와 수리를 우선으로 합니다. - 수동 명령은 새로운 구조물을 필요로 합니다. 
+자동사격 
+무기가 우주선을 자동사격합니다. 
+점프 
+워프 점프를 합니다. 적어도 회피율이 0보다 커야 하며 최대 충전이 되어있어야 합니다.  
+블루 
+모든 승무원이 우주선으로 돌아옵니다. 
+블랙 
+우주선을 버리고 떠납니다. 
+코드 
+센서 
+추가적인 경고과 위협을 감지합니다. 
+승무원 기술 보너스 
+빨리감기 Fast forward
+직업
+승무원에게 직업을 지정해줍니다. 
+에어락 
+함선 밖으로 나가는 중 
+함선으로 돌아오는 중 
+이동 중: 
+작업 중 
+밥먹으러 가는 중 
+먹을 장소를 찾는 중 
+먹는 중 
+물마시러 가는 중 
+마시는 중 
+치료 패드로 가는 중 
+회복중 
+자러 가는 중 
+자는 중 
+불길로 향하는 중 
+불을 끄는 중 
+청소하러 가는 중 
+청소 중 
+일하러 가는 중 
+건설중 
+수리중 
+시체로 가는 중 
+시체를 운반하는 중 
+쉬는 중 
+함장 의자 
+항해 
+센서 
+상대 targeting
+방어막 관리 
+장갑 관리 
+커뮤니케이션 communications
+열 관리 중
+명령에 따르는 중 
+명령 대기 중 
+엔진 engines
+재배 
+수동 조작 
+승무원이 수동 조작 상태입니다. 
+업무 
+현재 승무원에게 할당된 업무입니다. 
+항로 설정 Set course
+소행성대 
+우주선 신호 Ship signature
+연구 콘솔 
+채광 조종 
 
 #	800		Main menu text
-New
-Load
-Options
-Quit
-Save
-Continue
-Empty slot
-Escape Pod 02
-Start
-Default
-Select new crew
-Crew
-Resume
-Video
-Audio
-Controls
-Interface
-Master
-Effects
-Menu
-Music
-volume
-Master volume description
-Effects volume description
-Menu volume description
-Music volume description
-Stereo balance
--1 (full left) to 1 (full right). Default = 0.
+새 게임 
+불러오기 
+설정 
+나가기 
+저장 
+계속하기 
+빈 슬롯 
+비상 탈출장치 
+시작 
+기본값 
+새로운 승무원 선택 
+승무원 
+게임 재개 
+비디오 
+오디오 
+조작 
+인터페이스 
+마스터 
+효과음 
+메뉴 
+음악 
+볼륨 
+마스터 볼륨 상태 
+효과음 볼륨 상태 
+메뉴 볼륨 상태 
+음악 볼륨 상태 
+스테레오 밸런스 
+-1은 왼쪽 1은 오른쪽 0은 기본값입니다. 
 Spatial blend
 0 (2d) to 1 (3d). Default = 1.
 Doppler level
 0 (none) to 5 (full). Default = 0.
-Zoom sensitivity
-Camera zoom sensitivity
+확대 민감도 
+카메라 확대 민감도 
 Zoom to cursor
 Zoom to cursor or zoom to screen centre
-Zoom invert
-Invert mousewheel
-Enable tooltips
-Enable in game tooltips
-Tooltip delay
-Increase or decrease the time before tooltip appears
-Drag sensitivity
-Camera drag sensitivity
-Scale UI
+확대 반전 
+마우스 휠을 반대로 
+툴팁 보기 
+게임 툴팁을 활성화 합니다. 
+툴팁 지연시간 
+툴팁이 표시될 때까지 시간을 조정합니다. 
+드래그 민감도 
+카메라 드래그 민감도 
+UI 스케일 Scale UI
 Experimental. Reported to cause FPS issues. Default 1.
-Color preset
-Left click to set. Right click to clear.
-Windowed
-Enable windowed display
-Fullscreen
-Enable fullscreen display
-Max FPS
-Set maximum FPS
-None
-VSYNC
-Toggle VSYNC
-Menu accent
-Set menu accent color
-Reset menu settings
-Resets all menu settings to default
-Set to fullscreen resolution
-Max distance
-Distance game audio can be heard from source. Default 100.
-Button hover
-Set button hover/enter sound
-Button click
-Set button click sound
-Success
-Set button success sound
-Error
-Set button error sound
-Double tap time
-Set the double tap time window
-Loading
-First load
-Language
-Set language (requires restart)
+색상 프리셋 Color preset
+왼쪽 클릭으로 설정하고 오른쪽 클릭으로 지워냅니다. Left click to set. Right click to clear.
+창모드 
+창모드 화면 활성화 
+풀스크린 
+풀스크린 활성화 
+최대 FPS 
+최대 FPS를 설정합니다. 
+없음 None
+수직동기화 
+수직동기화 켜고 끄기 
+메뉴 강조 
+메뉴 강조 색상 설정 
+메뉴 설정 초기화 
+모든 메뉴 설정을 기본값으로 되돌립니다. 
+풀스크린 해상도로 설정 
+최대 거리 
+게임 오디오가 오디오 원본으로부터 들을 수 있는 최대 거리. 기본값은 100 
+버튼 올려놓기 
+버튼이 올려지거나 들어가는 소리 
+버튼 클릭 
+클릭 효과음 설정 버튼
+성공 
+성공 효과음 설정 버튼 
+오류
+오류 효과음 설정 버튼 
+더블 탭 시간 
+윈도우에서 더블 탭하는 시간을 설정합니다. 
+불러오는 중
+처음 불러오는 중
+언어
+언어 설정 (재시작이 필요합니다)
 English
 Chinese simplified
 Chinese traditional
@@ -694,156 +694,156 @@ Russian
 Spanish
 Swedish
 Custom
-UI alpha
-UI panel background transparency
-Notification
-Crew notification color
-Enable alarm
-Enable alarm sounds
-Importing enemy ships
-Import
-Import and apply colors from file
-Export
-Export applied colors to file
-Crew panel max
-The maximum number of crew panel rows to show
+UI 투명값 
+UI 패널 배경 투명도 
+알림 
+승무원 알림 색상 
+경보 활성화 
+경보 활성화 소리 
+적 함선을 배치하는 중 - 한글화: 로드폴드 ( 치이즈버거 ) 
+가져오기 
+파일에서 색상을 가져와 적용합니다. 
+내보내기 
+적용한 색상을 파일로 내보냅니다. 
+승무원 패널 최대 
+보여줄 수 있는 최대 승무원 수입니다. 
 OLD
-Task panel max
-The maximum number of task panel rows to show
-Component panel max
-The maximum number of component panel rows to show
-Reset controls
-Resets all key binds to default
-Pitch
-Pitch change description. Default 15.
-Notification panel max
-The maximum number of notification panel rows to show
-Autosave timer
-Minutes between autosave
+작업 패널 최대 
+보여줄 수 있는 최대 작업 수입니다. 
+모듈 패널 최대 
+보여줄 수 있는 최대 모듈 수입니다.
+조작 초기화 
+설정한 모든 키보드 값을 기본으로 돌립니다. 
+피치
+피치 변경창 기본값 15.
+알림 패널 최대 
+보여줄 수 있는 최대 알림 수입니다. 
+자동 저장 타이머 
+자동 저장 간격 (분단위) 
 
 #	1000	Key bindings
 m1 unused
-Mouse 1
+마우스 1 
 m2 unused
-Mouse 2
-Drag camera
-Drag camera
-Confirm text
+마우스 2 
+카메라 끌기 
+카메라 끌기 
+확인 텍스트 
 Confirm text entry
-Confirm text 2
+확인 텍스트 2 
 Confirm text entry 2
-Select all/Save group
-Select all/save group button
+모두 선택/저장 그룹 
+모두 선택/저장 그룹 버튼 
 unused
 unused desc
-Control group 1
-Select control group 1
-Control group 2
-Select control group 2
-Control group 3
-Select control group 3
-Control group 4
-Select control group 4
-Control group 5
-Select control group 5
-Control group 6
-Select control group 6
-Control group 7
-Select control group 7
-Control group 8
-Select control group 8
-Control group 9
-Select control group 9
-Control group 10
-Select control group 10 
-Select/remove single
-Select/remove single structure/crew
-Stop shooting
-Stop selected weapons shooting
-Power off
-Power down selected structures
-Power on
-Power up selected structures
-Release control
-Release control of selected crew
-Take control
-Take control of selected crew
-Enable work
-Enable working on selected structure
-Disable/halt work
-Disable working on selected structure
-Pause
-Pause game
-Lock door/airlock
-Lock selected airlocks
-Unlock door/airlock
-Unlock selected airlocks
-Vent airlock
-Vent airlock to space
-Close airlock
-Stop venting from airlock
-Rotate CW
-Rotate structure clockwise
-Rotate CCW
-Rotate structure counter-clockwise
-Plan panel
-Toggle plan panel on/off
-Crew panel
-Toggle crew panel on/off
-Cargo panel
-Toggle cargo panel on/off
-Ship panel	
-Toggle ship panel on/off
-Color panel
-Toggle color panel on/off
-Remove
-Quick toggle remove while building
-Prioritize
-Quick toggle prioritize while building
-Toggle code red
-Toggle code red on/off
-Toggle autofire
-Toggle autofire on/off
-Assign console
-Assign crew to work this console
-Assign bed
-Assign crew to this bed
-Order sleep
-Order crew to sleep
-Order eat
-Order crew to eat
-Order drink
-Order crew drink
-Toggle code blue
-Toggle code blue on/off
-Warp jump
-Requires full charge and >0 evade
-Toggle code black
-Toggle code black on/off
-Roles panel
-Toggle roles panel on/off
-Toggle game speed
-Toggle game speed speed
-Center camera
-Center camera on ship
-Task panel
-Toggle task panel on/off
-Structure panel
-Toggle structure panel on/off
-Research panel
-Toggle research panel on/off
-Notification panel
-Toggle notification panel on/off
-Toggle UI
-Toggle UI on/off
-Zoom in
-Zoom camera in
-Zoom out
-Zoom camera out
-Quick save
-Save game to the quick save slot
-Quick load
-Save game to the quick load slot
+부대 지정 1 
+부대 지정 1 선택 
+부대 지정 2 
+부대 지정 2 선택 
+부대 지정 3 
+부대 지정 3 선택 
+부대 지정 4 
+부대 지정 4 선택 
+부대 지정 5 
+부대 지정 5 선택 
+부대 지정 6 
+부대 지정 6 선택 
+부대 지정 7 
+부대 지정 7 선택 
+부대 지정 8 
+부대 지정 8 선택 
+부대 지정 9 
+부대 지정 9 선택 
+부대 지정 10 
+부대 지정 10 선택 
+단일 상대 선택/취소 
+단일 구조물이나 승무원 선택/취소 
+발사 중지 
+선택한 무기 발사 중지 
+전원 끄기 
+선택한 구조물 전원 끄기 
+전원 켜기 
+선택한 구조물 전원 켜기 
+조작 중지 
+선택한 승무원 조작 중지 
+조종하기 
+선택한 승무원 조종하기 
+걸을 수 있게 활성화 
+선택한 구조물 걸을 수 있게 활성화 
+작업 취소/중지 
+선택한 구조물 작업 중단 
+일시 정지 
+게임 일시 정지 
+문/에어락 잠그기 
+선택한 에어락 잠그기 
+문/에어락 해제하기 
+선택한 에어락 해제하기 
+에어락 차폐 
+우주로 공기 빼내기 
+에어락 닫기 
+에어락을 다시 닫기
+시계 방향 회전 
+구조물을 시계방향으로 회전 
+반시계 방향 회전
+구조물을 반시계 방향으로 회전 
+계획 패널 
+계획 패널 열기/닫기 
+승무원 패널 
+승무원 패널 열고 닫기 
+화물 패널 
+화물 패널 열고 닫기 
+우주선 패널 
+우주선 패널 열고 닫기 
+색상 패널 
+색상 패널 열고 닫기 
+제거 Remove
+건설중일 때 빠른 제거 명령 Quick toggle remove while building
+우선작업 Prioritize
+건설중일때 우선순위 설정 Quick toggle prioritize while building
+코드 레드 스위치 
+코드 레드 스위치를 켜고 끕니다 
+자동 사격 모드 
+자동 사격을 켜고 끕니다 
+콘솔 할당 
+승무원을 특정 콘솔로 할당합니다.
+침대 할당 
+승무원을 침대에 할당합니다. 
+잠자기 명령 
+승무원을 재우도록 명령합니다. 
+먹이기 명령 
+승무원에게 식사를 하게 명령합니다. 
+마시기 명령 
+승무원에게 물을 마시도록 명령합니다. 
+코드 블루 스위치 
+코드 블루를 활성화/비활성화 합니다. 
+워프 점프 
+회피가 0보다 커야 하며 최대로 충전되어 있어야 합니다. 
+코드 블랙 스위치 
+코드 블랙을 활성화/비활성화 합니다. 
+직업 패널 
+직업 패널을 켜고 끕니다. 
+게임 속도 스위치 
+게임 속도창을 켜고 끕니다. Toggle game speed speed
+카메라 중앙 정렬 
+배의 중심으로 카메라를 이동시킵니다. 
+업무 패널 
+업무 패널을 켜고 끕니다. 
+건축물 패널 
+건축물 패널을 켜고 끕니다. 
+연구 패널 
+연구 패널을 켜고 끕니다. 
+알림 패널 
+알림 패널을 켜고 끕니다. 
+UI 스위치 
+UI 창을 켜고 끕니다. 
+확대 
+카메라 확대 
+축소 
+카메라 축소 
+빠른 저장 
+빠른 저장 슬롯에 게임을 저장합니다. 
+빠른 불러오기 
+빠른 저장 슬롯에 있던 게임을 불러옵니다. 
 
 #	1200	TITLE
 Alpha 1.2e
